@@ -1,0 +1,5 @@
+SHELL=/bin/sh
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+MAILTO=severeweathernow@gmail.com
+* */1 * * * /uufs/chpc.utah.edu/common/home/u0540701/randomweathernow/severeweathernow.py > /uufs/chpc.utah.edu/common/home/u0540701/randomweathernow/severelog.log 2>&1
+
