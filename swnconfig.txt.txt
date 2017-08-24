@@ -1,7 +1,0 @@
-[swn]
-consumer_key = "1LH9KIzchwuVHnKixOwLevxUZ"
-consumer_secret = "ltLLfD7mKpK2YvO0jcug521HNm9V19sTW5XgXBmGlFi0ssYXsu"
-access_token = "774316735004409856-joNQgJO2L9cqD4SY0Ewzg3l7Lifp0Iy"
-access_token_secret = "XyhMpeR0dEjH3zTjuU1yh9cuVK57SpL4Y3VEzdNYE0Hc6"
-api_token = "c5213a1102b8422c80378944e1246d10"
-gps_token = "AIzaSyBF5B8-8YHO01xCnNlT-C1OXV2wkE1PPSM"
