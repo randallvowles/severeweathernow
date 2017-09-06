@@ -1,0 +1,1118 @@
+{
+    "0361bb7b32618474513480ea277ff61b": {
+        "area": "Clallam; Grays Harbor; Island; Jefferson; King; Kitsap; Lewis; Mason; Pierce; San Juan; Skagit; Snohomish; Thurston; Whatcom", 
+        "category": "Air Quality Alert", 
+        "severity": "Unknown", 
+        "summary": "...AIR QUALITY ALERT IN EFFECT UNTIL 5 PM PDT WEDNESDAY... An Air Quality Alert has been issued by the National Weather Service. It is in effect through 5 PM PDT Wednesday afternoon. Smoke from wildfires in Eastern Washington and Montana will continue to drift westward into Western Washington today into Wednesday morning. The central Puget Sound Region and the mountains will be the", 
+        "title": "Air Quality Alert issued September 05 at 9:53AM PDT by NWS", 
+        "type": "Air Quality Alert", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=WA125867A31DF4.AirQualityAlert.125867B27290WA.SEWAQASEW.0361bb7b32618474513480ea277ff61b"
+    }, 
+    "0385b3c82d699664d692198a9adb9c55": {
+        "area": "Upper Koyukuk Valley", 
+        "category": "Wind Advisory", 
+        "severity": "Minor", 
+        "summary": "...WIND ADVISORY REMAINS IN EFFECT UNTIL NOON AKDT TODAY... * LOCATION...Over Summits. * WINDS...East gusting to 40 mph. * TIMING...strong gusty winds will decrease about noon today.", 
+        "title": "Wind Advisory issued September 06 at 4:53AM AKDT until September 06 at 12:00PM AKDT by NWS", 
+        "type": "Wind Advisory", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=AK125867B1C3F4.WindAdvisory.125867B2E7C0AK.AFGNPWAFG.0385b3c82d699664d692198a9adb9c55"
+    }, 
+    "0789def3f007157970f2173fd0f56634": {
+        "area": "DeSoto", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "...The Flood Warning has been extended for the following rivers in Florida... Myakka River At Myakka River State Park Peace River At Arcadia .Flooding continues along a few rivers across the area. Water levels are expected to decline over the next several days. Additional", 
+        "title": "Flood Warning issued September 06 at 9:22AM EDT until September 07 at 2:00AM EDT by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=FL125867B1DEE8.FloodWarning.125867C00720FL.TBWFLSTBW.0789def3f007157970f2173fd0f56634"
+    }, 
+    "0947b34f8915809415ed18bd600d1bb1": {
+        "area": "Culebra", 
+        "category": "Hurricane Warning", 
+        "severity": "Severe", 
+        "summary": "...HURRICANE WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Culebra * WIND - LATEST LOCAL FORECAST: Equivalent Cat 4 Hurricane force wind - Peak Wind Forecast: 120-140 mph with gusts to 145 mph", 
+        "title": "Hurricane Warning issued September 06 at 12:07PM ADT until further notice by NWS", 
+        "type": "Hurricane Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=PR125867B2272C.HurricaneWarning.125867B362CCPR.JSJTCVSJU.0947b34f8915809415ed18bd600d1bb1"
+    }, 
+    "09a4588c3fdbf7bb34002ede6cc8ec88": {
+        "area": "Hupa; Lower Middle Klamath; Trinity; Upper Smith", 
+        "category": "Red Flag Warning", 
+        "severity": "Severe", 
+        "summary": "...SCATTERED TO NUMEROUS THUNDERSTORMS WITH ABUNDANT LIGHTNING POSSIBLE THURSDAY MORNING THROUGH THURSDAY EVENING... .Scattered to potentially numerous thunderstorms are expected to develop across a broad area of Northwest California on Thursday. Storms may form as early as Thursday morning and last through Thursday evening, and may feature abundant cloud-to-ground", 
+        "title": "Red Flag Warning issued September 06 at 8:24AM PDT until September 07 at 11:00PM PDT by NWS", 
+        "type": "Red Flag Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=CA125867B22DD0.RedFlagWarning.125867CF4960CA.EKARFWEKA.09a4588c3fdbf7bb34002ede6cc8ec88"
+    }, 
+    "0b69a8e763092719b48044d2c590cdb7": {
+        "area": "Deschutes National Forest - minus Sisters Ranger District; East Slopes of Central Oregon Cascades", 
+        "category": "Red Flag Warning", 
+        "severity": "Severe", 
+        "summary": "...SCATTERED THUNDERSTORMS WITH ABUNDANT LIGHTNING EXPECTED ALONG THE EAST SLOPES OF THE CASCADES LATER TODAY SPREADING NORTHEAST THURSDAY AND THURSDAY NIGHT... .A trough of low pressure will lift northeast and slowly move through the area over the next few days. Scattered thunderstorms will develop as early as this afternoon along the East Slopes of", 
+        "title": "Red Flag Warning issued September 06 at 8:59AM PDT until September 08 at 2:00AM PDT by NWS", 
+        "type": "Red Flag Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=OR125867B23B7C.RedFlagWarning.125867CFBE90OR.PDTRFWPDT.0b69a8e763092719b48044d2c590cdb7"
+    }, 
+    "0c38a660e6cebfb03a86459058031393": {
+        "area": "Hardin; Jasper", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "...The Flood Warning continues for the following rivers in Louisiana...Texas... Sabine River Near Bon Wier Sabine River Near Orange Sabine River Near Deweyville Neches River Near Town Bluff", 
+        "title": "Flood Warning issued September 06 at 10:35AM CDT until further notice by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=TX125867B2321C.FloodWarning.125867BFEDBCTX.LCHFLSLCH.0c38a660e6cebfb03a86459058031393"
+    }, 
+    "131e688a2d6cd7706ba92775439ef4d9": {
+        "area": "Kings (Brooklyn); Southeast Suffolk; Southern Nassau; Southern Queens; Southwest Suffolk", 
+        "category": "Rip Current Statement", 
+        "severity": "Moderate", 
+        "summary": "...HIGH RISK OF RIP CURRENTS TODAY AND CONTINUING INTO THE WEEKEND... ...HIGH RIP CURRENT RISK REMAINS IN EFFECT THROUGH THIS EVENING... * LOCATIONS...ATLANTIC OCEAN BEACHES. * RIP CURRENT RISK...HIGH. * SURF HEIGHT...3 TO 4 FEET FOR NYC AND WESTERN LONG ISLAND, AND", 
+        "title": "Rip Current Statement issued September 06 at 7:12AM EDT until September 06 at 8:00PM EDT by NWS", 
+        "type": "Rip Current Statement", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=NY125867B18CE0.RipCurrentStatement.125867BF1CC0NY.OKXCFWOKX.131e688a2d6cd7706ba92775439ef4d9"
+    }, 
+    "13b45e0f9eb0bf78dc266561cedfa091": {
+        "area": "Calcasieu", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "...The Flood Warning continues for the following rivers in Louisiana...Texas... Sabine River Near Bon Wier Sabine River Near Orange Sabine River Near Deweyville Neches River Near Town Bluff", 
+        "title": "Flood Warning issued September 06 at 10:35AM CDT until September 11 at 5:30AM CDT by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=LA125867B2321C.FloodWarning.125867FDB818LA.LCHFLSLCH.13b45e0f9eb0bf78dc266561cedfa091"
+    }, 
+    "15df68420cf3088aa5560842a0d53ec0": {
+        "area": "Coastal Brunswick", 
+        "category": "Rip Current Statement", 
+        "severity": "Moderate", 
+        "summary": "HIGH RISK OF RIP CURRENTS. THE NATIONAL WEATHER SERVICE IN WILMINGTON HAS ISSUED A HIGH RIP CURRENT RISK...WHICH IS IN EFFECT WEDNESDAY MORNING THROUGH WEDNESDAY EVENING. STRONG LONG PERIOD SWELLS FROM HURRICANE IRMA WILL PRODUCE A HIGH RISK OF STRONG RIP CURRENTS TODAY. RIP CURRENTS WILL BE STRONGEST SEVERAL HOURS EITHER SIDE OF LOW TIDE.", 
+        "title": "Rip Current Statement issued September 06 at 4:45AM EDT until September 06 at 8:00PM EDT by NWS", 
+        "type": "Rip Current Statement", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=NC125867B12494.RipCurrentStatement.125867BF1CC0NC.ILMCFWILM.15df68420cf3088aa5560842a0d53ec0"
+    }, 
+    "185d6c838e6b6de3b7d37825397b9eb7": {
+        "area": "Coastal Wakulla; Inland Wakulla; Leon; Liberty", 
+        "category": "Special Weather Statement", 
+        "severity": "Minor", 
+        "summary": "...SIGNIFICANT WEATHER ADVISORY FOR WAKULLA...SOUTHEASTERN LIBERTY AND SOUTHWESTERN LEON COUNTIES UNTIL 1215 PM EDT... At 1118 AM EDT, National Weather Service doppler radar indicated a strong thunderstorm 13 miles southwest of Midway, moving east at 20 mph. Winds in excess of 40 mph will be possible with this storm.", 
+        "title": "Special Weather Statement issued September 06 at 11:19AM EDT by NWS", 
+        "type": "Special Weather Statement", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=FL125867B22BDC.SpecialWeatherStatement.125867B2515CFL.TAESPSTAE.185d6c838e6b6de3b7d37825397b9eb7"
+    }, 
+    "1866cf37121bdd8c023c7e4b5f372569": {
+        "area": "Central Interior", 
+        "category": "Hurricane Warning", 
+        "severity": "Severe", 
+        "summary": "...HURRICANE WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Central Interior * WIND - LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind - Peak Wind Forecast: 40-50 mph with gusts to 75 mph", 
+        "title": "Hurricane Warning issued September 06 at 12:07PM ADT until further notice by NWS", 
+        "type": "Hurricane Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=PR125867B2272C.HurricaneWarning.125867B362CCPR.JSJTCVSJU.1866cf37121bdd8c023c7e4b5f372569"
+    }, 
+    "1ad7db69e0d54d628afc71ce6b09b73f": {
+        "area": "Central Douglas County; Curry County Coast; Eastern Curry County and Josephine County; Eastern Douglas County Foothills; Jackson County; Siskiyou Mountains and Southern Oregon Cascades; South Central Oregon Cascades; South Central Oregon Coast", 
+        "category": "Air Quality Alert", 
+        "severity": "Unknown", 
+        "summary": "...AIR QUALITY ALERT IN EFFECT UNTIL FURTHER NOTICE... Oregon Department of Environmental Quality has issued an Air Quality Alert...in effect until further notice. Wildfires burning in the region combined with forecast conditions will cause air quality levels to fluctuate, but they are generally expected to be at unhealthy levels for most valley areas inland from", 
+        "title": "Air Quality Alert issued September 05 at 11:02AM PDT by NWS", 
+        "type": "Air Quality Alert", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=OR125867A35828.AirQualityAlert.125867B2C0B0OR.MFRAQAMFR.1ad7db69e0d54d628afc71ce6b09b73f"
+    }, 
+    "1b40f5d1dbc6e1560ac4dedf768b5fb1": {
+        "area": "Jasper; Tyler", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "...The Flood Warning continues for the following rivers in Louisiana...Texas... Sabine River Near Bon Wier Sabine River Near Orange Sabine River Near Deweyville Neches River Near Town Bluff", 
+        "title": "Flood Warning issued September 06 at 10:35AM CDT until further notice by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=TX125867B2321C.FloodWarning.125867BFEDBCTX.LCHFLSLCH.1b40f5d1dbc6e1560ac4dedf768b5fb1"
+    }, 
+    "1d52b29fe18e4cf196b1f03d1e6d345c": {
+        "area": "Porter", 
+        "category": "Beach Hazards Statement", 
+        "severity": "Moderate", 
+        "summary": "...BEACH HAZARDS STATEMENT REMAINS IN EFFECT THROUGH THIS EVENING... * LOCATION...PORTER COUNTY INDIANA LAKE MICHIGAN BEACHES. * FORECAST WAVE HEIGHTS...4 TO 7 FEET. * STRONG RIP CURRENTS AND STRUCTURAL CURRENTS EXPECTED.", 
+        "title": "Beach Hazards Statement issued September 06 at 10:51AM EDT until September 06 at 11:00PM EDT by NWS", 
+        "type": "Beach Hazards Statement", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=IN125867B2114C.BeachHazardsStatement.125867BF91F0IN.LOTCFWLOT.1d52b29fe18e4cf196b1f03d1e6d345c"
+    }, 
+    "1e757b1dfd0f5df515a156386347e5bc": {
+        "area": "Ponce and Vicinity", 
+        "category": "Hurricane Warning", 
+        "severity": "Severe", 
+        "summary": "...HURRICANE WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Ponce and Vicinity * WIND - LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind - Peak Wind Forecast: 35-45 mph with gusts to 60 mph", 
+        "title": "Hurricane Warning issued September 06 at 12:07PM ADT until further notice by NWS", 
+        "type": "Hurricane Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=PR125867B2272C.HurricaneWarning.125867B362CCPR.JSJTCVSJU.1e757b1dfd0f5df515a156386347e5bc"
+    }, 
+    "204e6f9db0d1518988fc693d6acbc27b": {
+        "area": "Cook", 
+        "category": "Beach Hazards Statement", 
+        "severity": "Moderate", 
+        "summary": "...BEACH HAZARDS STATEMENT IN EFFECT UNTIL 4 PM CDT THIS AFTERNOON... THE NATIONAL WEATHER SERVICE IN CHICAGO HAS ISSUED A BEACH HAZARDS STATEMENT...WHICH IS IN EFFECT UNTIL 4 PM CDT THIS AFTERNOON. * LOCATION...COOK COUNTY ILLINOIS LAKE MICHIGAN BEACHES.", 
+        "title": "Beach Hazards Statement issued September 06 at 9:51AM CDT until September 06 at 4:00PM CDT by NWS", 
+        "type": "Beach Hazards Statement", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=IL125867B2114C.BeachHazardsStatement.125867B30ED0IL.LOTCFWLOT.204e6f9db0d1518988fc693d6acbc27b"
+    }, 
+    "23ecc01d7370f593d35e42c1e6767791": {
+        "area": "Burney Basin and Northeast Plateau in Shasta County Including Northwest Lassen NF north of Lassen NP; E Mendocino NF; Eastern Portion of Shasta, Trinity NF; Northern Motherlode From 1000 to 3000 Ft. From Yuba To Amador Counties; Northern Sacramento Valley to Southern Tehama County Line Below 1000 Ft; Northern Sierra Foothills from 1000 to 3000 Ft. Includes Nevada-Yuba-Placer RU and Anador-Eldorado RU; Northern Sierra Including Lassen NP and Plumas and Lassen NF, S West of the Sierra Crest - West of Evans Peak, Grizzly Peak, Beckworth Peak; Southern and Eastern Mendocino NF, Southeast Edge Shasta, Trinity NF and Western Portions of Tahima, Glenn RU; Tahoe - Eldorado National Forest", 
+        "category": "Red Flag Warning", 
+        "severity": "Severe", 
+        "summary": "...ABUNDANT LIGHTNING POSSIBLE THIS AFTERNOON THROUGH THURSDAY EVENING... A robust upper level weather system off the California coast will move inland this afternoon into Thursday, and bring the potential for scattered to numerous thunderstorms across the region. Abundant lightning strikes and gusty, erratic winds may accompany", 
+        "title": "Red Flag Warning issued September 06 at 8:20AM PDT until September 07 at 11:00PM PDT by NWS", 
+        "type": "Red Flag Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=CA125867B22C40.RedFlagWarning.125867CF4960CA.STORFWSTO.23ecc01d7370f593d35e42c1e6767791"
+    }, 
+    "24f9279ba3f5ac1e6b34dd848e1b9928": {
+        "area": "Crook; Deschutes; Gilliam; Grant; Jefferson; Morrow; Sherman; Umatilla; Union; Wallowa; Wasco; Wheeler", 
+        "category": "Air Quality Alert", 
+        "severity": "Unknown", 
+        "summary": "...AIR QUALITY ALERT IN EFFECT UNTIL NOON PDT FRIDAY... Oregon Department of Environmental Quality has issued an Air Quality Alert...in effect until noon PDT Friday. A Smoke Air Quality Alert remains in effect. Wildfires burning in the region combined with forecast conditions will cause air quality to remain at unhealthy levels.", 
+        "title": "Air Quality Alert issued September 06 at 8:55AM PDT by NWS", 
+        "type": "Air Quality Alert", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=OR125867B239EC.AirQualityAlert.125867C1B4D0OR.PDTAQAPDT.24f9279ba3f5ac1e6b34dd848e1b9928"
+    }, 
+    "279c07a0fc2f10397d1ada4dc3365ac2": {
+        "area": "Berrien", 
+        "category": "Beach Hazards Statement", 
+        "severity": "Moderate", 
+        "summary": "...BEACH HAZARDS STATEMENT REMAINS IN EFFECT THROUGH THIS EVENING... * HIGH WAVE ACTION AND DANGEROUS SWIMMING CONDITIONS EXPECTED. * STRONG RIP CURRENTS EXPECTED. * STRONG STRUCTURAL CURRENTS EXPECTED. * OVERVIEW/POTENTIAL IMPACTS...NORTH TO NORTHWEST WINDS 10 TO 20", 
+        "title": "Beach Hazards Statement issued September 06 at 10:51AM EDT until September 06 at 11:00PM EDT by NWS", 
+        "type": "Beach Hazards Statement", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=MI125867B2114C.BeachHazardsStatement.125867BF91F0MI.IWXCFWIWX.279c07a0fc2f10397d1ada4dc3365ac2"
+    }, 
+    "284b5818a3fee832ad922827988828e9": {
+        "area": "Ada; Adams; Boise; Canyon; Elmore; Gem; Owyhee; Payette; Valley; Washington", 
+        "category": "Air Quality Alert", 
+        "severity": "Unknown", 
+        "summary": "...RED AIR QUALITY ADVISORY FROM THE IDAHO DEPARTMENT OF ENVIRONMENTAL QUALITY FOR THE TREASURE VALLEY AREA... The Idaho Department of Environmental Quality has issued an Red /Unhealthy/ Air Quality Advisory for the Treasure Valley area due to elevated pollutant levels. This Advisory will remain in effect until air quality conditions have significantly improved.", 
+        "title": "Air Quality Alert issued September 05 at 11:58AM MDT by NWS", 
+        "type": "Air Quality Alert", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=ID125867A346F8.AirQualityAlert.125867B31A88ID.BOIAQABOI.284b5818a3fee832ad922827988828e9"
+    }, 
+    "2b0958773030d7c512b621676ab329f8": {
+        "area": "Sarasota", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "...The Flood Warning has been extended for the following rivers in Florida... Myakka River At Myakka River State Park Peace River At Arcadia .Flooding continues along a few rivers across the area. Water levels are expected to decline over the next several days. Additional", 
+        "title": "Flood Warning issued September 06 at 9:22AM EDT until September 10 at 8:00AM EDT by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=FL125867B1DEE8.FloodWarning.125867EEB840FL.TBWFLSTBW.2b0958773030d7c512b621676ab329f8"
+    }, 
+    "2b8c8ef052fc59d2f4009c16e54ac7e7": {
+        "area": "Southern Oregon Coast; Western Siskiyou National Forest", 
+        "category": "Red Flag Warning", 
+        "severity": "Severe", 
+        "summary": "...Abundant lightning expected today into Thursday evening for Northern California and southern Oregon... ...RED FLAG WARNING REMAINS IN EFFECT UNTIL 11 PM PDT THURSDAY FOR ABUNDANT LIGHTNING ON DRY FUELS FOR FIRE WEATHER ZONE 280 IN CALIFORNIA AND FIRE WEATHER ZONES 618 AND 619 IN OREGON... * Thunderstorms: This afternoon and evening the possibility of", 
+        "title": "Red Flag Warning issued September 06 at 7:11AM PDT until September 07 at 11:00PM PDT by NWS", 
+        "type": "Red Flag Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=OR125867B201AC.RedFlagWarning.125867CF4960OR.MFRRFWMFR.2b8c8ef052fc59d2f4009c16e54ac7e7"
+    }, 
+    "2bf9402197c02fbc3ab5ffcb4b958303": {
+        "area": "Eastern Interior", 
+        "category": "Hurricane Warning", 
+        "severity": "Severe", 
+        "summary": "...HURRICANE WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Eastern Interior * WIND - LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind - Peak Wind Forecast: 45-55 mph with gusts to 80 mph", 
+        "title": "Hurricane Warning issued September 06 at 12:07PM ADT until further notice by NWS", 
+        "type": "Hurricane Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=PR125867B2272C.HurricaneWarning.125867B362CCPR.JSJTCVSJU.2bf9402197c02fbc3ab5ffcb4b958303"
+    }, 
+    "2e793a3f0c4bfd57862fb50945ea4e56": {
+        "area": "Harris", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "A river flood warning remains in effect for the Buffalo Bayou. The Flood Warning continues for The Buffalo Bayou Near Piney Point Village * until further notice...or until the warning is canceled. * At 0846 AM Wednesday the stage was 58.1 feet. * Moderate flooding is occurring and Moderate flooding is forecast.", 
+        "title": "Flood Warning issued September 06 at 9:35AM CDT until further notice by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=TX125867B20B0C.FloodWarning.125867C14D4CTX.HGXFLSHGX.2e793a3f0c4bfd57862fb50945ea4e56"
+    }, 
+    "2fc0a27c2d855b30108d374a5553cf35": {
+        "area": "St Croix", 
+        "category": "Hurricane Warning", 
+        "severity": "Severe", 
+        "summary": "...HURRICANE WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - St Croix * WIND - LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind - Peak Wind Forecast: 45-55 mph with gusts to 80 mph", 
+        "title": "Hurricane Warning issued September 06 at 11:07AM AST until further notice by NWS", 
+        "type": "Hurricane Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=VI125867B2272C.HurricaneWarning.125867B362CCVI.JSJTCVSJU.2fc0a27c2d855b30108d374a5553cf35"
+    }, 
+    "300d48b6d3c891ecbb953ff40792ef57": {
+        "area": "Coastal Georgetown; Coastal Horry", 
+        "category": "Rip Current Statement", 
+        "severity": "Moderate", 
+        "summary": "HIGH RISK OF RIP CURRENTS. THE NATIONAL WEATHER SERVICE IN WILMINGTON HAS ISSUED A HIGH RIP CURRENT RISK...WHICH IS IN EFFECT WEDNESDAY MORNING THROUGH WEDNESDAY EVENING. STRONG LONG PERIOD SWELLS FROM HURRICANE IRMA WILL PRODUCE A HIGH RISK OF STRONG RIP CURRENTS TODAY. RIP CURRENTS WILL BE STRONGEST SEVERAL HOURS EITHER SIDE OF LOW TIDE.", 
+        "title": "Rip Current Statement issued September 06 at 4:45AM EDT until September 06 at 8:00PM EDT by NWS", 
+        "type": "Rip Current Statement", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=SC125867B12494.RipCurrentStatement.125867BF1CC0SC.ILMCFWILM.300d48b6d3c891ecbb953ff40792ef57"
+    }, 
+    "312cc140a4b70fb7857a129336bc0020": {
+        "area": "Vieques", 
+        "category": "Hurricane Warning", 
+        "severity": "Severe", 
+        "summary": "...HURRICANE WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Vieques * WIND - LATEST LOCAL FORECAST: Equivalent Strong Tropical Storm force wind", 
+        "title": "Hurricane Warning issued September 06 at 12:07PM ADT until further notice by NWS", 
+        "type": "Hurricane Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=PR125867B2272C.HurricaneWarning.125867B362CCPR.JSJTCVSJU.312cc140a4b70fb7857a129336bc0020"
+    }, 
+    "315f9abfee7d45725bbe03afa7ebba60": {
+        "area": "Calcasieu", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "...The Flood Warning continues for the following rivers in Louisiana...Texas... Sabine River Near Bon Wier Sabine River Near Orange Sabine River Near Deweyville Neches River Near Town Bluff", 
+        "title": "Flood Warning issued September 06 at 10:35AM CDT until further notice by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=LA125867B2321C.FloodWarning.125867BFED58LA.LCHFLSLCH.315f9abfee7d45725bbe03afa7ebba60"
+    }, 
+    "31760518ce055c503fa09e437c7f095d": {
+        "area": "Brazoria", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "A river flood warning remains in effect for the San Bernard River. ...Flood Warning extended until Saturday evening...The Flood Warning continues for The San Bernard River near Sweeny * until Saturday evening...or until the warning is canceled. * Flood stage is 16.0 feet.", 
+        "title": "Flood Warning issued September 06 at 9:31AM CDT until September 09 at 10:00PM CDT by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=TX125867B2097C.FloodWarning.125867ED58B0TX.HGXFLSHGX.31760518ce055c503fa09e437c7f095d"
+    }, 
+    "330c9586294ebcc8b2d2c9e7318f2a59": {
+        "area": "Benton; Columbia; Franklin; Kittitas; Klickitat; Walla Walla; Yakima", 
+        "category": "Air Quality Alert", 
+        "severity": "Unknown", 
+        "summary": "...AIR QUALITY ALERT IN EFFECT UNTIL NOON PDT FRIDAY... The Washington State Department of Ecology has issued an Air Quality Alert...in effect until noon PDT Friday. A Smoke Air Quality Alert remains in effect. Wildfires burning in the region combined with forecast conditions will cause air quality to remain at unhealthy levels.", 
+        "title": "Air Quality Alert issued September 06 at 8:55AM PDT by NWS", 
+        "type": "Air Quality Alert", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=WA125867B239EC.AirQualityAlert.125867C1B4D0WA.PDTAQAPDT.330c9586294ebcc8b2d2c9e7318f2a59"
+    }, 
+    "3358bd4c932ad716dac82253d5bf3fcb": {
+        "area": "Clark County Lowlands; East Willapa Hills; Eastern Gifford Pinchot NF - Mt Adams Ranger District", 
+        "category": "Fire Weather Watch", 
+        "severity": "Moderate", 
+        "summary": "...FIRE WEATHER WATCH REMAINS IN EFFECT FROM WEDNESDAY AFTERNOON THROUGH THURSDAY EVENING FOR ABUNDANT LIGHTNING AND DRY FUELS FOR FIRE WEATHER ZONES 602...603...604...606...608...663...665 AND 667... * Thunderstorms...There will be a chance for thunderstorms Wednesday afternoon through Thursday evening. The best chances", 
+        "title": "Fire Weather Watch issued September 05 at 9:37PM PDT until September 07 at 8:00PM PDT by NWS", 
+        "type": "Fire Weather Watch", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=WA125867B08534.FireWeatherWatch.125867CED430WA.PQRRFWPQR.3358bd4c932ad716dac82253d5bf3fcb"
+    }, 
+    "37927bc2e60128e89194ebe6c37e0f4e": {
+        "area": "La Porte", 
+        "category": "Beach Hazards Statement", 
+        "severity": "Moderate", 
+        "summary": "...BEACH HAZARDS STATEMENT REMAINS IN EFFECT THROUGH THIS EVENING... * HIGH WAVE ACTION AND DANGEROUS SWIMMING CONDITIONS EXPECTED. * STRONG RIP CURRENTS EXPECTED. * STRONG STRUCTURAL CURRENTS EXPECTED. * OVERVIEW/POTENTIAL IMPACTS...NORTH TO NORTHWEST WINDS 10 TO 20", 
+        "title": "Beach Hazards Statement issued September 06 at 10:51AM EDT until September 06 at 11:00PM EDT by NWS", 
+        "type": "Beach Hazards Statement", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=IN125867B2114C.BeachHazardsStatement.125867BF91F0IN.IWXCFWIWX.37927bc2e60128e89194ebe6c37e0f4e"
+    }, 
+    "380e1e947d6d98722467bc653098f18d": {
+        "area": "Northeast", 
+        "category": "Hurricane Warning", 
+        "severity": "Severe", 
+        "summary": "...HURRICANE WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Northeast * WIND - LATEST LOCAL FORECAST: Equivalent Cat 1 Hurricane force wind - Peak Wind Forecast: 60-80 mph with gusts to 115 mph", 
+        "title": "Hurricane Warning issued September 06 at 12:07PM ADT until further notice by NWS", 
+        "type": "Hurricane Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=PR125867B2272C.HurricaneWarning.125867B362CCPR.JSJTCVSJU.380e1e947d6d98722467bc653098f18d"
+    }, 
+    "3a40d663d9a8fc9f23d554bb81c92d2d": {
+        "area": "Essex", 
+        "category": "Severe Thunderstorm Warning", 
+        "severity": "Severe", 
+        "summary": "The National Weather Service in Taunton has issued a * Severe Thunderstorm Warning for... Northwestern Essex County in northeastern Massachusetts... * Until 1215 PM EDT * At 1146 AM EDT, a severe thunderstorm was located over Boxford, or near North Andover, moving northeast at 45 mph.", 
+        "title": "Severe Thunderstorm Warning issued September 06 at 11:46AM EDT until September 06 at 12:15PM EDT by NWS", 
+        "type": "Severe Thunderstorm Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=MA125867B23668.SevereThunderstormWarning.125867B2515CMA.BOXSVRBOX.3a40d663d9a8fc9f23d554bb81c92d2d"
+    }, 
+    "3cc4130e263712de88bdd0c32dc0ff67": {
+        "area": "Modoc County; North Central and Southeast Siskiyou County; Northeast Siskiyou and Northwest Modoc Counties; South Central Siskiyou County", 
+        "category": "Air Quality Alert", 
+        "severity": "Unknown", 
+        "summary": "...AIR QUALITY ALERT IN EFFECT UNTIL NOON PDT FRIDAY... Oregon Department of Environmental Quality has issued an Air Quality Alert...in effect until further notice. Wildfires burning in the region combined with forecast conditions will cause air quality levels to fluctuate. Air quality could be at unhealthy levels, at times.", 
+        "title": "Air Quality Alert issued September 05 at 11:02AM PDT by NWS", 
+        "type": "Air Quality Alert", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=CA125867A35828.AirQualityAlert.125867B2C0B0CA.MFRAQAMFR.3cc4130e263712de88bdd0c32dc0ff67"
+    }, 
+    "410cbc60b6765ac305b824e400b4b34b": {
+        "area": "Eastern Payette National Forest; Northern Boise National Forest; Southern Boise, Western Sawtooth NF, including the Camas Prairie", 
+        "category": "Red Flag Warning", 
+        "severity": "Severe", 
+        "summary": "...HAINES 6 CONDITIONS TO PERSIST THROUGH TONIGHT... .A hot, dry, and unstable airmass over the region will remain in place through tonight. This will continue the Haines 6 conditions across the eastern Payette National Forest, Boise National Forest, and western Sawtooth National Forest; which are zones 402, 403 and 421.", 
+        "title": "Red Flag Warning issued September 06 at 8:30AM MDT until September 06 at 10:00PM MDT by NWS", 
+        "type": "Red Flag Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=ID125867B20918.RedFlagWarning.125867BFB900ID.BOIRFWBOI.410cbc60b6765ac305b824e400b4b34b"
+    }, 
+    "49adcbfb06c58e5886b592ecafe37b74": {
+        "area": "Benton; Clackamas; Clatsop; Columbia; Hood River; Lane; Lincoln; Linn; Marion; Multnomah; Polk; Tillamook; Washington; Yamhill", 
+        "category": "Air Quality Alert", 
+        "severity": "Unknown", 
+        "summary": "...AIR QUALITY ALERT IN EFFECT UNTIL 12 PM PDT FRIDAY FOR NORTHWEST OREGON... The Lane Regional Air Protection Agency and the Oregon Department of Environmental Quality have issued an Air Quality Alert, which is in effect until 12 PM PDT Friday. A Smoke Air Quality Alert has been issued. Wildfires burning in the", 
+        "title": "Air Quality Alert issued September 05 at 3:38PM PDT by NWS", 
+        "type": "Air Quality Alert", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=OR125867A40278.AirQualityAlert.125867B299A0OR.PQRAQAPQR.49adcbfb06c58e5886b592ecafe37b74"
+    }, 
+    "4deb337ece81df8cbe01dfeec6113e82": {
+        "area": "Allen", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "...The Flood Warning continues for the following rivers in Louisiana...Texas... Sabine River Near Bon Wier Sabine River Near Orange Sabine River Near Deweyville Neches River Near Town Bluff", 
+        "title": "Flood Warning issued September 06 at 10:35AM CDT until September 08 at 5:48PM CDT by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=LA125867B2321C.FloodWarning.125867D1CD20LA.LCHFLSLCH.4deb337ece81df8cbe01dfeec6113e82"
+    }, 
+    "4f712902d5c9828378c089ade6896d8c": {
+        "area": "Calcasieu", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "...The Flood Warning continues for the following rivers in Louisiana...Texas... Sabine River Near Bon Wier Sabine River Near Orange Sabine River Near Deweyville Neches River Near Town Bluff", 
+        "title": "Flood Warning issued September 06 at 10:35AM CDT until further notice by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=LA125867B2321C.FloodWarning.125867BFED58LA.LCHFLSLCH.4f712902d5c9828378c089ade6896d8c"
+    }, 
+    "4fb3771795c8c7d86ec91a8ac7fcee2a": {
+        "area": "San Juan and Vicinity", 
+        "category": "Hurricane Warning", 
+        "severity": "Severe", 
+        "summary": "...HURRICANE WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - San Juan and Vicinity * WIND - LATEST LOCAL FORECAST: Equivalent Strong Tropical Storm force wind", 
+        "title": "Hurricane Warning issued September 06 at 12:07PM ADT until further notice by NWS", 
+        "type": "Hurricane Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=PR125867B2272C.HurricaneWarning.125867B362CCPR.JSJTCVSJU.4fb3771795c8c7d86ec91a8ac7fcee2a"
+    }, 
+    "557a49ddc41e8cd759e35cc4b6b5e450": {
+        "area": "Lake", 
+        "category": "Beach Hazards Statement", 
+        "severity": "Moderate", 
+        "summary": "...BEACH HAZARDS STATEMENT REMAINS IN EFFECT THROUGH THIS EVENING... * LOCATION...LAKE COUNTY INDIANA LAKE MICHIGAN BEACHES. * FORECAST WAVE HEIGHTS...3 TO 6 FEET. * STRONG RIP CURRENTS AND STRUCTURAL CURRENTS EXPECTED.", 
+        "title": "Beach Hazards Statement issued September 06 at 10:51AM EDT until September 06 at 11:00PM EDT by NWS", 
+        "type": "Beach Hazards Statement", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=IN125867B2114C.BeachHazardsStatement.125867BF91F0IN.LOTCFWLOT.557a49ddc41e8cd759e35cc4b6b5e450"
+    }, 
+    "560806d7a23c5b0bb22273762eaff7b0": {
+        "area": "Newton", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "...The Flood Warning continues for the following rivers in Louisiana...Texas... Sabine River Near Bon Wier Sabine River Near Orange Sabine River Near Deweyville Neches River Near Town Bluff", 
+        "title": "Flood Warning issued September 06 at 10:35AM CDT until further notice by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=TX125867B2321C.FloodWarning.125867BFED58TX.LCHFLSLCH.560806d7a23c5b0bb22273762eaff7b0"
+    }, 
+    "592bcca6c9ebca7a33a04581ecf751dc": {
+        "area": "Brazoria", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "A river flood warning remains in effect for the Brazos River. The Flood Warning continues for The Brazos River Near West Columbia * until Friday morning...or until the warning is canceled. * At 0916 AM Wednesday the stage was 30.1 feet. * Minor flooding is occurring and Minor flooding is forecast.", 
+        "title": "Flood Warning issued September 06 at 9:38AM CDT until September 08 at 7:00AM CDT by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=TX125867B20C38.FloodWarning.125867D033C0TX.HGXFLSHGX.592bcca6c9ebca7a33a04581ecf751dc"
+    }, 
+    "5a021d4cfe3add847a8734649aad2525": {
+        "area": "Fort Bend", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "The National Weather Service in League City has issued a * Flood Warning for... Northern Fort Bend County in southeastern Texas... West central Harris County in southeastern Texas... * Until 400 PM CDT Wednesday. * At 353 PM CDT, Harris County Flood Control confirmed flooding was", 
+        "title": "Flood Warning issued September 04 at 3:58PM CDT until September 08 at 9:00AM CDT by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=TX1258679479E8.FloodWarning.125867D081E0TX.HGXFLWHGX.5a021d4cfe3add847a8734649aad2525"
+    }, 
+    "5ac0f0fc72a8f299a5b4b136403f993f": {
+        "area": "Deltana and Tanana Flats", 
+        "category": "High Wind Warning", 
+        "severity": "Severe", 
+        "summary": "...HIGH WIND WARNING NOW IN EFFECT UNTIL 6 PM AKDT THIS EVENING... * LOCATION...From Delta Junction South. * WINDS...South winds 30 mph with gusts to 70 mph. * TIMING...Strong gusty winds now occuring from Delta Junction south will remain strong through this afternoon and then decrease this evening.", 
+        "title": "High Wind Warning issued September 06 at 4:53AM AKDT until September 06 at 6:00PM AKDT by NWS", 
+        "type": "High Wind Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=AK125867B1C3F4.HighWindWarning.125867BF6AE0AK.AFGNPWAFG.5ac0f0fc72a8f299a5b4b136403f993f"
+    }, 
+    "5b036cfd07f9573116e89cd633da8b6e": {
+        "area": "St Croix; St.Thomas...St. John.. and Adjacent Islands", 
+        "category": "Flash Flood Watch", 
+        "severity": "Severe", 
+        "summary": "...FLOODING RAINS ASSOCIATED WITH IRMA EXPECTED TODAY THROUGH AT LEAST FRIDAY... .As Major Hurricane Irma and its outer rain bands continue to affect the islands, the potential for flooding rains will significantly increase throughout the day, particularly across the U.S. Virgin Islands, north and eastern Puerto Rico, Culebra and Vieques.", 
+        "title": "Flash Flood Watch issued September 06 at 7:57AM AST until September 08 at 2:00PM AST by NWS", 
+        "type": "Flash Flood Watch", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=VI125867B19E74.FlashFloodWatch.125867D11E20VI.JSJFFASJU.5b036cfd07f9573116e89cd633da8b6e"
+    }, 
+    "5c459a82c216d4b3e26aae54702065b9": {
+        "area": "Middle Tanana Valley", 
+        "category": "Special Weather Statement", 
+        "severity": "Minor", 
+        "summary": "...Gusty Winds this Morning... Winds are gusting to 35 mph at Eielson AFB and over higher terrain at 5am this morning. These locally gusty winds will continue through noon today. Fairbanks could have winds gusts to 25 mph by mid-morning. Wind gusts are expected to decrease in the afternoon.", 
+        "title": "Special Weather Statement issued September 06 at 5:38AM AKDT by NWS", 
+        "type": "Special Weather Statement", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=AK125867B1E528.SpecialWeatherStatement.125867B2E7C0AK.AFGSPSAFG.5c459a82c216d4b3e26aae54702065b9"
+    }, 
+    "5e6d9a22d43c41c74b47a8a5eca6e516": {
+        "area": "Barnstable", 
+        "category": "Special Weather Statement", 
+        "severity": "Minor", 
+        "summary": "...Torrential Rainfall Moving Across Cape Cod... At 1206 PM EDT, Doppler radar was tracking a strong thunderstorm near Yarmouth, or near Barnstable, moving northeast at 45 mph. Winds in excess of 30 mph and minor street flooding will accompany this storm as it crosses the outer Cape through 1 pm. Locations impacted include...", 
+        "title": "Special Weather Statement issued September 06 at 12:07PM EDT by NWS", 
+        "type": "Special Weather Statement", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=MA125867B24E3C.SpecialWeatherStatement.125867B25D14MA.BOXSPSBOX.5e6d9a22d43c41c74b47a8a5eca6e516"
+    }, 
+    "6113f9426055920b3a4afab3c7ba7a3e": {
+        "area": "Allegan; Mason; Muskegon; Oceana; Ottawa; Van Buren", 
+        "category": "Beach Hazards Statement", 
+        "severity": "Moderate", 
+        "summary": "...BEACH HAZARDS STATEMENT REMAINS IN EFFECT UNTIL 11 PM EDT THIS EVENING... * HIGH WAVE ACTION... STRONG CURRENTS AND DANGEROUS SWIMMING CONDITIONS EXPECTED. * STRONG STRUCTURAL CURRENTS EXPECTED. * STRONG LONGSHORE CURRENTS EXPECTED.", 
+        "title": "Beach Hazards Statement issued September 06 at 11:31AM EDT until September 06 at 11:00PM EDT by NWS", 
+        "type": "Beach Hazards Statement", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=MI125867B2308C.BeachHazardsStatement.125867BF91F0MI.GRRCFWGRR.6113f9426055920b3a4afab3c7ba7a3e"
+    }, 
+    "6283190124c9f1ceaee073c1fc6ac3eb": {
+        "area": "Hardin; Jasper; Jefferson; Orange", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "...The Flood Warning continues for the following rivers in Louisiana...Texas... Sabine River Near Bon Wier Sabine River Near Orange Sabine River Near Deweyville Neches River Near Town Bluff", 
+        "title": "Flood Warning issued September 06 at 10:35AM CDT until further notice by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=TX125867B2321C.FloodWarning.125867BFED58TX.LCHFLSLCH.6283190124c9f1ceaee073c1fc6ac3eb"
+    }, 
+    "64612daa2afd9545fcc31122f885d0a3": {
+        "area": "Central Blue Mountains; Central Mountains of Oregon; Northern Blue Mountains of Oregon; Southern Blue and Strawberry Mountains", 
+        "category": "Fire Weather Watch", 
+        "severity": "Moderate", 
+        "summary": "...SCATTERED THUNDERSTORMS WITH ABUNDANT LIGHTNING EXPECTED ALONG THE EAST SLOPES OF THE CASCADES LATER TODAY SPREADING NORTHEAST THURSDAY AND THURSDAY NIGHT... .A trough of low pressure will lift northeast and slowly move through the area over the next few days. Scattered thunderstorms will develop as early as this afternoon along the East Slopes of", 
+        "title": "Fire Weather Watch issued September 06 at 8:59AM PDT until September 08 at 11:00PM PDT by NWS", 
+        "type": "Fire Weather Watch", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=OR125867B23B7C.FireWeatherWatch.125867DE8BA0OR.PDTRFWPDT.64612daa2afd9545fcc31122f885d0a3"
+    }, 
+    "66917e419331574a0ee5c2f5e11c26d5": {
+        "area": "Beauregard; Vernon", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "...The Flood Warning continues for the following rivers in Louisiana...Texas... Sabine River Near Bon Wier Sabine River Near Orange Sabine River Near Deweyville Neches River Near Town Bluff", 
+        "title": "Flood Warning issued September 06 at 10:35AM CDT until further notice by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=LA125867B2321C.FloodWarning.125867BFED58LA.LCHFLSLCH.66917e419331574a0ee5c2f5e11c26d5"
+    }, 
+    "68cd278ff79d932d56c40b2ed52d81e1": {
+        "area": "Bannock; Bear Lake; Bingham; Blaine; Bonneville; Butte; Caribou; Cassia; Clark; Custer; Franklin; Fremont; Jefferson; Lincoln; Madison; Minidoka; Oneida; Power; Teton", 
+        "category": "Air Quality Alert", 
+        "severity": "Unknown", 
+        "summary": "...AN AIR QUALITY ADVISORY FROM THE IDAHO DEPARTMENT OF ENVIRONMENTAL QUALITY REMAINS IN EFFECT... Due to wildfire smoke, the air quality remains Unhealthy across portions of Custer, Blaine, Lincoln, Minidoka and Cassia counties and Unhealthy for Sensitive Groups for the remainder of southeast Idaho. This advisory will remain in effect until air quality has", 
+        "title": "Air Quality Alert issued September 06 at 8:52AM MDT by NWS", 
+        "type": "Air Quality Alert", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=ID125867B211B0.AirQualityAlert.125867C1B4D0ID.PIHAQAPIH.68cd278ff79d932d56c40b2ed52d81e1"
+    }, 
+    "695c27bac0dfb650d9c75ac05bcd7e2e": {
+        "area": "South Washington Coast and West Willapa Hills", 
+        "category": "Fire Weather Watch", 
+        "severity": "Moderate", 
+        "summary": "...FIRE WEATHER WATCH REMAINS IN EFFECT FROM WEDNESDAY AFTERNOON THROUGH THURSDAY EVENING FOR ABUNDANT LIGHTNING AND DRY FUELS FOR FIRE WEATHER ZONES 601...612...664...665... * Thunderstorms...There will be a chance for thunderstorms Wednesday afternoon through Thursday evening. The best chances are likely overnight Wednesday through Thursday afternoon.", 
+        "title": "Fire Weather Watch issued September 05 at 9:37PM PDT until September 07 at 8:00PM PDT by NWS", 
+        "type": "Fire Weather Watch", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=WA125867B08534.FireWeatherWatch.125867CED430WA.PQRRFWPQR.695c27bac0dfb650d9c75ac05bcd7e2e"
+    }, 
+    "696d6acdfd37eb1aebf62c9e25e9f8e6": {
+        "area": "Adams; Asotin; Chelan; Douglas; Ferry; Garfield; Grant; Lincoln; Okanogan; Pend Oreille; Spokane; Stevens; Whitman", 
+        "category": "Air Quality Alert", 
+        "severity": "Unknown", 
+        "summary": "An Air Quality Alert has been issued by the following agencies: Washington Department of Ecology in Spokane Washington Department of Ecology in Yakima Colville Confederated Tribes Spokane Tribe Kalispel Indian Community", 
+        "title": "Air Quality Alert issued September 05 at 12:04PM PDT by NWS", 
+        "type": "Air Quality Alert", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=WA125867A38000.AirQualityAlert.125867B2C68CWA.OTXAQAOTX.696d6acdfd37eb1aebf62c9e25e9f8e6"
+    }, 
+    "6a73df6c4ca395d042fbece6141629a2": {
+        "area": "Clark; Cowlitz; Pacific; Skamania; Wahkiakum", 
+        "category": "Air Quality Alert", 
+        "severity": "Unknown", 
+        "summary": "...AIR QUALITY ALERT IN EFFECT UNTIL 12 PM PDT FRIDAY FOR MUCH OF SOUTHWEST WASHINGTON... The Southwest Clean Air Agency has issued an Air Quality Alert, which is in effect until 12 PM PDT Friday. A Smoke Air Quality Alert has been issued. Wildfires burning in the region combined with forecast conditions will cause air quality to", 
+        "title": "Air Quality Alert issued September 05 at 3:38PM PDT by NWS", 
+        "type": "Air Quality Alert", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=WA125867A40278.AirQualityAlert.125867B299A0WA.PQRAQAPQR.6a73df6c4ca395d042fbece6141629a2"
+    }, 
+    "6f5c2c631fcce9ea9bab7bcc6d794467": {
+        "area": "Caldwell; Grant; La Salle; Winn", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "The flood warning continues for the Little River Of Louisiana Near Rochelle. * until late Friday night...or until the warning is cancelled. * At 930 AM Wednesday The stage was 32.7 feet. * Minor flooding is occurring and Minor flooding is forecast. * Flood stage is 32 feet.", 
+        "title": "Flood Warning issued September 06 at 10:03AM CDT until September 09 at 1:00AM CDT by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=LA125867B2259C.FloodWarning.125867DE8BA0LA.SHVFLSSHV.6f5c2c631fcce9ea9bab7bcc6d794467"
+    }, 
+    "709e41856653265a8782f09d47bcc273": {
+        "area": "Androscoggin; Central Somerset; Interior Cumberland; Interior Waldo; Interior York; Kennebec; Northern Franklin; Southern Franklin; Southern Oxford; Southern Somerset", 
+        "category": "Flash Flood Watch", 
+        "severity": "Severe", 
+        "summary": "...Heavy rainfall expected through tonight... .A stalled frontal boundary and a very moist air mass will aid in the development of bands of showers and thunderstorms today which will then continue into tonight. Torrential downpours will likely occur in the watch area which will lead to the potential for flash flooding.", 
+        "title": "Flash Flood Watch issued September 06 at 9:58AM EDT until September 07 at 8:00AM EDT by NWS", 
+        "type": "Flash Flood Watch", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=ME125867B1ECF8.FlashFloodWatch.125867C0F180ME.GYXFFAGYX.709e41856653265a8782f09d47bcc273"
+    }, 
+    "70a917b0b7392cc4080f36c334e84a19": {
+        "area": "Mayaguez and Vicinity", 
+        "category": "Hurricane Warning", 
+        "severity": "Severe", 
+        "summary": "...HURRICANE WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Mayaguez and Vicinity * WIND - LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind - Peak Wind Forecast: 35-45 mph with gusts to 65 mph", 
+        "title": "Hurricane Warning issued September 06 at 12:07PM ADT until further notice by NWS", 
+        "type": "Hurricane Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=PR125867B2272C.HurricaneWarning.125867B362CCPR.JSJTCVSJU.70a917b0b7392cc4080f36c334e84a19"
+    }, 
+    "71924ec80afe4f71d00ec714a3950ec0": {
+        "area": "Coastal New Hanover; Coastal Pender", 
+        "category": "Rip Current Statement", 
+        "severity": "Moderate", 
+        "summary": "HIGH RISK OF RIP CURRENTS. THE NATIONAL WEATHER SERVICE IN WILMINGTON HAS ISSUED A HIGH RIP CURRENT RISK...WHICH IS IN EFFECT WEDNESDAY MORNING THROUGH WEDNESDAY EVENING. STRONG LONG PERIOD SWELLS FROM HURRICANE IRMA WILL PRODUCE A HIGH RISK OF STRONG RIP CURRENTS TODAY. RIP CURRENTS WILL BE STRONGEST SEVERAL HOURS EITHER SIDE OF LOW TIDE.", 
+        "title": "Rip Current Statement issued September 06 at 4:45AM EDT until September 06 at 8:00PM EDT by NWS", 
+        "type": "Rip Current Statement", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=NC125867B12494.RipCurrentStatement.125867BF1CC0NC.ILMCFWILM.71924ec80afe4f71d00ec714a3950ec0"
+    }, 
+    "777854bc41f598a365ee622dfcbb0fcb": {
+        "area": "Brazoria", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "The National Weather Service in League City has issued a * Flood Warning for... Western Brazoria County in southeastern Texas... * Until 1115 AM CDT Friday. * At 1111 AM CDT, emergency management officials reported flooding occurring in western Brazoria County from ongoing river flooding", 
+        "title": "Flood Warning issued September 01 at 11:23AM CDT by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=TX12586766093C.FloodWarning.125867D0D5DCTX.HGXFLWHGX.777854bc41f598a365ee622dfcbb0fcb"
+    }, 
+    "77c26dc601426b7c032d8c5481bf2d0a": {
+        "area": "Eastern Douglas County Foothills; South Central Oregon Cascades", 
+        "category": "Dense Smoke Advisory", 
+        "severity": "Minor", 
+        "summary": "...Dense smoke expected through midday Thursday... .Periods of dense smoke will persist through midday Thursday across the mid-elevations and valleys of Siskiyou County from the Shasta Valley westward. Dense smoke will also persist in the Southern Oregon Cascades near Union Creek and Diamond lake and in eastern Douglas county near Steamboat through late this evening.", 
+        "title": "Dense Smoke Advisory issued September 06 at 12:08AM PDT until September 07 at 12:00AM PDT by NWS", 
+        "type": "Dense Smoke Advisory", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=OR125867B0EF10.DenseSmokeAdvisory.125867C02E30OR.MFRNPWMFR.77c26dc601426b7c032d8c5481bf2d0a"
+    }, 
+    "784bfb92a6388bd83acd613524cd9810": {
+        "area": "Allen; Jefferson Davis", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "...The Flood Warning continues for the following rivers in Louisiana...Texas... Sabine River Near Bon Wier Sabine River Near Orange Sabine River Near Deweyville Neches River Near Town Bluff", 
+        "title": "Flood Warning issued September 06 at 10:35AM CDT until September 07 at 11:30PM CDT by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=LA125867B2321C.FloodWarning.125867CF06F8LA.LCHFLSLCH.784bfb92a6388bd83acd613524cd9810"
+    }, 
+    "79e8bc4bbb11b226f90beb3bf6d82bc1": {
+        "area": "Western Interior", 
+        "category": "Hurricane Warning", 
+        "severity": "Severe", 
+        "summary": "...HURRICANE WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Western Interior * WIND - LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind - Peak Wind Forecast: 35-45 mph with gusts to 65 mph", 
+        "title": "Hurricane Warning issued September 06 at 12:07PM ADT until further notice by NWS", 
+        "type": "Hurricane Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=PR125867B2272C.HurricaneWarning.125867B362CCPR.JSJTCVSJU.79e8bc4bbb11b226f90beb3bf6d82bc1"
+    }, 
+    "8097a52ad92edfac595aea404582373c": {
+        "area": "Calhoun; Refugio; Victoria", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "...The Flood Warning continues for the following rivers in Texas... Guadalupe River Near Bloomington affecting Calhoun...Refugio and Victoria Counties .Recent or anticipated rainfall over the area will keep the aforementioned rivers above flood stage for the next few days. These river forecasts are based on forecast rainfall over the", 
+        "title": "Flood Warning issued September 06 at 8:15AM CDT until September 08 at 2:00PM CDT by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=TX125867B1DC2C.FloodWarning.125867D14530TX.CRPFLSCRP.8097a52ad92edfac595aea404582373c"
+    }, 
+    "82152ec8215457e748d4358762415d8a": {
+        "area": "Wallowa District", 
+        "category": "Fire Weather Watch", 
+        "severity": "Moderate", 
+        "summary": "...SCATTERED THUNDERSTORMS WITH ABUNDANT LIGHTNING EXPECTED ALONG THE EAST SLOPES OF THE CASCADES LATER TODAY SPREADING NORTHEAST THURSDAY AND THURSDAY NIGHT... .A trough of low pressure will lift northeast and slowly move through the area over the next few days. Scattered thunderstorms will develop as early as this afternoon along the East Slopes of", 
+        "title": "Fire Weather Watch issued September 06 at 8:59AM PDT until September 08 at 11:00PM PDT by NWS", 
+        "type": "Fire Weather Watch", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=OR125867B23B7C.FireWeatherWatch.125867DE8BA0OR.PDTRFWPDT.82152ec8215457e748d4358762415d8a"
+    }, 
+    "83ab844f0dc93d9eef8e5a6afec66e16": {
+        "area": "Central Siskiyou County; Western Siskiyou County", 
+        "category": "Air Quality Alert", 
+        "severity": "Unknown", 
+        "summary": "...AIR QUALITY ALERT IN EFFECT UNTIL FURTHER NOTICE... Oregon Department of Environmental Quality has issued an Air Quality Alert...in effect until further notice. Wildfires burning in the region combined with forecast conditions will cause air quality levels to fluctuate, but they are generally expected to be at unhealthy levels for most valley areas inland from", 
+        "title": "Air Quality Alert issued September 05 at 11:02AM PDT by NWS", 
+        "type": "Air Quality Alert", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=CA125867A35828.AirQualityAlert.125867B2C0B0CA.MFRAQAMFR.83ab844f0dc93d9eef8e5a6afec66e16"
+    }, 
+    "844db2be8aba2e6b9fb0c78777a7c52c": {
+        "area": "Newton; Orange", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "...The Flood Warning continues for the following rivers in Louisiana...Texas... Sabine River Near Bon Wier Sabine River Near Orange Sabine River Near Deweyville Neches River Near Town Bluff", 
+        "title": "Flood Warning issued September 06 at 10:35AM CDT until further notice by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=TX125867B2321C.FloodWarning.125867BFED58TX.LCHFLSLCH.844db2be8aba2e6b9fb0c78777a7c52c"
+    }, 
+    "84c68c46b41a8d91bee49f0028661c2f": {
+        "area": "Big and Little Wood River Region; Cache Valley, Idaho Portion; Caribou Highlands; Eastern Magic Valley; Lost River, Pashimeroi; Lower Snake River Plain; Sawtooth Mountains; South Central Highlands; Upper Snake Highlands; Upper Snake River Plain; Wasatch Mountains, Idaho Portion", 
+        "category": "Air Quality Alert", 
+        "severity": "Unknown", 
+        "summary": "...AN AIR QUALITY ADVISORY HAS BEEN ISSUED BY THE IDAHO DEPARTMENT OF ENVIRONMENTAL QUALITY... Due to wildfire smoke, the air quality has become Unhealthy across portions of Custer, Blaine, Lincoln, Minidoka and Cassia counties and Unhealthy for Sensitive Groups for the remainder of southeast Idaho. This advisory will remain in effect until air", 
+        "title": "Air Quality Alert issued September 05 at 11:13AM MDT by NWS", 
+        "type": "Air Quality Alert", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=ID125867A33564.AirQualityAlert.125867B2786CID.PIHAQAPIH.84c68c46b41a8d91bee49f0028661c2f"
+    }, 
+    "86f749d2f9e3a5ae349c6ce2deb9ea05": {
+        "area": "Jackson; Woodruff", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "...From the National Weather Service in Little Rock...the Flood Warning continues for the following river in Arkansas... Cache River Near Patterson affecting Jackson and Woodruff Counties River forecasts are based on current conditions and rainfall forecasted to occur over the next 24 hours. During periods of flooding...Evening forecasts are reissued with updated rainfall", 
+        "title": "Flood Warning issued September 06 at 9:15AM CDT until September 07 at 7:00PM CDT by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=AR125867B2033C.FloodWarning.125867CE5F00AR.LZKFLSLZK.86f749d2f9e3a5ae349c6ce2deb9ea05"
+    }, 
+    "8a61b97ef1a21023d9e622283792b49f": {
+        "area": "Harris", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "A river flood warning remains in effect for the Buffalo Bayou. The Flood Warning continues for The Buffalo Bayou In West Belt Drive * until further notice...or until the warning is canceled. * At 0849 AM Wednesday the stage was 67.3 feet. * Major flooding is occurring and Major flooding is forecast.", 
+        "title": "Flood Warning issued September 06 at 9:35AM CDT until further notice by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=TX125867B20B0C.FloodWarning.125867C14D4CTX.HGXFLSHGX.8a61b97ef1a21023d9e622283792b49f"
+    }, 
+    "8bd5a718f4f20d762845dc0dfec5aa65": {
+        "area": "St.Thomas...St. John.. and Adjacent Islands", 
+        "category": "Hurricane Warning", 
+        "severity": "Severe", 
+        "summary": "...HURRICANE WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - St Thomas St John and adjacent islands * WIND - LATEST LOCAL FORECAST: Equivalent Cat 4 Hurricane force wind - Peak Wind Forecast: 115-135 mph with gusts to 145 mph", 
+        "title": "Hurricane Warning issued September 06 at 11:07AM AST until further notice by NWS", 
+        "type": "Hurricane Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=VI125867B2272C.HurricaneWarning.125867B362CCVI.JSJTCVSJU.8bd5a718f4f20d762845dc0dfec5aa65"
+    }, 
+    "8d67727360d22566fc42a2f36d69cdf9": {
+        "area": "Central Interior; Culebra; Eastern Interior; Mayaguez and Vicinity; North Central; Northeast; Northwest; Ponce and Vicinity; San Juan and Vicinity; Southeast; Southwest; Vieques; Western Interior", 
+        "category": "Hurricane Local Statement", 
+        "severity": "Severe", 
+        "summary": "This product covers PUERTO RICO AND THE US VIRGIN ISLANDS **EYE OF POTENTIALLY CATASTROPHIC CATEGORY 5 HURRICANE IRMA CLOSING IN ON THE VIRGIN ISLANDS** NEW INFORMATION --------------- * CHANGES TO WATCHES AND WARNINGS:", 
+        "title": "Hurricane Local Statement issued September 06 at 12:22PM ADT by NWS", 
+        "type": "Hurricane Local Statement", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=PR125867B22D08.HurricaneLocalStatement.125867B368A8PR.JSJHLSSJU.8d67727360d22566fc42a2f36d69cdf9"
+    }, 
+    "9168991cccb5b53ea133039c6c9fed6b": {
+        "area": "St Croix; St.Thomas...St. John.. and Adjacent Islands", 
+        "category": "Hurricane Local Statement", 
+        "severity": "Severe", 
+        "summary": "This product covers PUERTO RICO AND THE US VIRGIN ISLANDS **EYE OF POTENTIALLY CATASTROPHIC CATEGORY 5 HURRICANE IRMA CLOSING IN ON THE VIRGIN ISLANDS** NEW INFORMATION --------------- * CHANGES TO WATCHES AND WARNINGS:", 
+        "title": "Hurricane Local Statement issued September 06 at 11:22AM AST by NWS", 
+        "type": "Hurricane Local Statement", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=VI125867B22D08.HurricaneLocalStatement.125867B368A8VI.JSJHLSSJU.9168991cccb5b53ea133039c6c9fed6b"
+    }, 
+    "92d2ecf9bae307870512a9f66d066e6a": {
+        "area": "Central Oregon Cascade Foothills; East Slopes of the Central Oregon Coast Range; North Oregon Coast Range; Willamette National Forest; Willamette Valley", 
+        "category": "Fire Weather Watch", 
+        "severity": "Moderate", 
+        "summary": "...FIRE WEATHER WATCH REMAINS IN EFFECT FROM WEDNESDAY AFTERNOON THROUGH THURSDAY EVENING FOR ABUNDANT LIGHTNING AND DRY FUELS FOR FIRE WEATHER ZONES 602...603...604...606...608...663...665 AND 667... * Thunderstorms...There will be a chance for thunderstorms Wednesday afternoon through Thursday evening. The best chances", 
+        "title": "Fire Weather Watch issued September 05 at 9:37PM PDT until September 07 at 8:00PM PDT by NWS", 
+        "type": "Fire Weather Watch", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=OR125867B08534.FireWeatherWatch.125867CED430OR.PQRRFWPQR.92d2ecf9bae307870512a9f66d066e6a"
+    }, 
+    "992a383ea85eb412dc85fecf7dcd774e": {
+        "area": "Rapides", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "...The Flood Warning continues for the following rivers in Louisiana...Texas... Sabine River Near Bon Wier Sabine River Near Orange Sabine River Near Deweyville Neches River Near Town Bluff", 
+        "title": "Flood Warning issued September 06 at 10:35AM CDT until further notice by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=LA125867B2321C.FloodWarning.125867BFED58LA.LCHFLSLCH.992a383ea85eb412dc85fecf7dcd774e"
+    }, 
+    "9933ea068fdc7e54794311032ba8bee1": {
+        "area": "Acadia; Jefferson Davis; Vermilion", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "...The Flood Warning continues for the following rivers in Louisiana...Texas... Sabine River Near Bon Wier Sabine River Near Orange Sabine River Near Deweyville Neches River Near Town Bluff", 
+        "title": "Flood Warning issued September 06 at 10:35AM CDT until further notice by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=LA125867B2321C.FloodWarning.125867BFED58LA.LCHFLSLCH.9933ea068fdc7e54794311032ba8bee1"
+    }, 
+    "9c52773194ba7a3805e1fd3b58887567": {
+        "area": "Beaverhead; Deer Lodge; Flathead; Granite; Jefferson; Lake; Lewis and Clark; Lincoln; Madison; Mineral; Missoula; Pondera; Powell; Ravalli; Sanders; Silver Bow; Teton", 
+        "category": "Air Quality Alert", 
+        "severity": "Unknown", 
+        "summary": "...AIR QUALITY ALERT IN EFFECT... The Montana Department of Environmental Quality has issued an air quality alert for Beaverhead, Deer Lodge, Flathead, Granite, Jefferson, Lake, Lewis and Clark, Lincoln, Madison, Mineral, Missoula, Pondera, Powell, Ravalli, Sanders, Silver Bow, and Teton counties in effect until further notice due to wildfire smoke from", 
+        "title": "Air Quality Alert issued September 06 at 9:00AM MDT by NWS", 
+        "type": "Air Quality Alert", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=MT125867B22470.AirQualityAlert.125867C166B0MT.TFXAQAMT.9c52773194ba7a3805e1fd3b58887567"
+    }, 
+    "a3c1341ec5aa3c022a78a10983d1bbeb": {
+        "area": "Lafayette; Vermilion", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "...The Flood Warning continues for the following rivers in Louisiana...Texas... Sabine River Near Bon Wier Sabine River Near Orange Sabine River Near Deweyville Neches River Near Town Bluff", 
+        "title": "Flood Warning issued September 06 at 10:35AM CDT until September 09 at 1:00AM CDT by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=LA125867B2321C.FloodWarning.125867DE8BA0LA.LCHFLSLCH.a3c1341ec5aa3c022a78a10983d1bbeb"
+    }, 
+    "a46361cfa985d68bd6bcbddd3b3226c3": {
+        "area": "Brazoria; Fort Bend; Wharton", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "A river flood warning remains in effect for the San Bernard River. The Flood Warning continues for The San Bernard River Near Boling * until Friday evening...or until the warning is canceled. * At 0915 AM Wednesday the stage was 29.6 feet. * Moderate flooding is occurring and Moderate flooding is forecast.", 
+        "title": "Flood Warning issued September 06 at 9:31AM CDT until September 08 at 9:15PM CDT by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=TX125867B2097C.FloodWarning.125867DDF53CTX.HGXFLSHGX.a46361cfa985d68bd6bcbddd3b3226c3"
+    }, 
+    "a5ad287f7521b43faf4c0c9f251de5d4": {
+        "area": "Upper Kuskokwim Valley", 
+        "category": "High Wind Warning", 
+        "severity": "Severe", 
+        "summary": "...HIGH WIND WARNING NOW IN EFFECT UNTIL 6 PM AKDT THIS EVENING... * LOCATION...Near the Alaska Range. * WINDS...Southeast 45 mph with gusts to 70 mph. * TIMING...Strong gusty winds will continue through this afternoon and then decrease this evening. * IMPACTS...Strong winds will make travel difficult. Loose", 
+        "title": "High Wind Warning issued September 06 at 6:46AM AKDT until September 06 at 6:00PM AKDT by NWS", 
+        "type": "High Wind Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=AK125867B20F58.HighWindWarning.125867BF6AE0AK.AFGNPWWCZ.a5ad287f7521b43faf4c0c9f251de5d4"
+    }, 
+    "aeb9fc077bd9646b5078a0671a9e5637": {
+        "area": "Central Siskiyou County; Western Siskiyou County", 
+        "category": "Dense Smoke Advisory", 
+        "severity": "Minor", 
+        "summary": "...Dense smoke expected through midday Thursday... .Periods of dense smoke will persist through midday Thursday across the mid-elevations and valleys of Siskiyou County from the Shasta Valley westward. Dense smoke will also persist in the Southern Oregon Cascades near Union Creek and Diamond lake and in eastern Douglas county near Steamboat through late this evening.", 
+        "title": "Dense Smoke Advisory issued September 06 at 12:08AM PDT until September 07 at 12:00PM PDT by NWS", 
+        "type": "Dense Smoke Advisory", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=CA125867B0EF10.DenseSmokeAdvisory.125867C202F0CA.MFRNPWMFR.aeb9fc077bd9646b5078a0671a9e5637"
+    }, 
+    "af11ba3b88391ab42acdd9bf832ccf08": {
+        "area": "Hardin; Jefferson", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "...The Flood Warning continues for the following rivers in Louisiana...Texas... Sabine River Near Bon Wier Sabine River Near Orange Sabine River Near Deweyville Neches River Near Town Bluff", 
+        "title": "Flood Warning issued September 06 at 10:35AM CDT until further notice by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=TX125867B2321C.FloodWarning.125867BFED58TX.LCHFLSLCH.af11ba3b88391ab42acdd9bf832ccf08"
+    }, 
+    "b14a7def37c36ffef89895cc558d0b97": {
+        "area": "Belknap; Cheshire; Eastern Hillsborough; Interior Rockingham; Merrimack; Northern Carroll; Southern Carroll; Southern Grafton; Strafford; Sullivan; Western And Central Hillsborough", 
+        "category": "Flash Flood Watch", 
+        "severity": "Severe", 
+        "summary": "...Heavy rainfall expected through tonight... .A stalled frontal boundary and a very moist air mass will aid in the development of bands of showers and thunderstorms today which will then continue into tonight. Torrential downpours will likely occur in the watch area which will lead to the potential for flash flooding.", 
+        "title": "Flash Flood Watch issued September 06 at 9:58AM EDT until September 07 at 8:00AM EDT by NWS", 
+        "type": "Flash Flood Watch", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=NH125867B1ECF8.FlashFloodWatch.125867C0F180NH.GYXFFAGYX.b14a7def37c36ffef89895cc558d0b97"
+    }, 
+    "b5504493c0220868ae0376d5e098e84d": {
+        "area": "Baker; Harney; Malheur", 
+        "category": "Air Quality Alert", 
+        "severity": "Unknown", 
+        "summary": "...AIR QUALITY ALERT IN EFFECT UNTIL NOON PDT FRIDAY... Oregon Department of Environmental Quality has issued an Air Quality Alert...in effect until noon PDT Friday. A Smoke Air Quality Alert has been issued. Wildfires burning in the region combined with forecast conditions will cause air quality to remain at unhealthy levels.", 
+        "title": "Air Quality Alert issued September 05 at 10:58AM PDT by NWS", 
+        "type": "Air Quality Alert", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=OR125867A346F8.AirQualityAlert.125867B31A88OR.BOIAQABOI.b5504493c0220868ae0376d5e098e84d"
+    }, 
+    "b5b41bd30b8a257da7f15a4d8a7b6564": {
+        "area": "Brazoria; Fort Bend", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "A river flood warning remains in effect for the Brazos River. ...Flood Warning extended until Thursday evening...The Flood Warning continues for The Brazos River near Rosharon * until Thursday evening...or until the warning is canceled. * At 0916 AM Wednesday the stage was 49.0 feet.", 
+        "title": "Flood Warning issued September 06 at 9:38AM CDT until September 07 at 10:38PM CDT by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=TX125867B20C38.FloodWarning.125867CEE308TX.HGXFLSHGX.b5b41bd30b8a257da7f15a4d8a7b6564"
+    }, 
+    "b5b4896493b4637693749b5c23b91c8a": {
+        "area": "Central Oregon Coastal Strip; North Oregon Coast", 
+        "category": "Fire Weather Watch", 
+        "severity": "Moderate", 
+        "summary": "...FIRE WEATHER WATCH REMAINS IN EFFECT FROM WEDNESDAY AFTERNOON THROUGH THURSDAY EVENING FOR ABUNDANT LIGHTNING AND DRY FUELS FOR FIRE WEATHER ZONES 601...612...664...665... * Thunderstorms...There will be a chance for thunderstorms Wednesday afternoon through Thursday evening. The best chances are likely overnight Wednesday through Thursday afternoon.", 
+        "title": "Fire Weather Watch issued September 05 at 9:37PM PDT until September 07 at 8:00PM PDT by NWS", 
+        "type": "Fire Weather Watch", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=OR125867B08534.FireWeatherWatch.125867CED430OR.PQRRFWPQR.b5b4896493b4637693749b5c23b91c8a"
+    }, 
+    "b673bfeec0acffde87780c37d97b9b46": {
+        "area": "Manua; Swains Island; Tutuila and Aunuu", 
+        "category": "High Surf Advisory", 
+        "severity": "Minor", 
+        "summary": "...A HIGH SURF ADVISORY REMAINS IN EFFECT... * SURF...LARGE SURFS OF 8 TO 11 FEET WILL CONTINUE TO IMPACT EAST AND SOUTH FACING REEFS. THESE SURF HEIGHTS WILL GRADUALLY SUBSIDE TO NEAR 7 TO 9 FEET DURING MIDWEEK. * TIMING...UNTIL 3 PM SST THURS. * IMPACTS...HAZARDOUS SURFS AND STRONG RIP CURRENTS.", 
+        "title": "High Surf Advisory issued September 06 at 2:56AM SST by NWS", 
+        "type": "High Surf Advisory", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=AS125867B1EC30.HighSurfAdvisory.125867BF6AE0AS.STUCFWPPG.b673bfeec0acffde87780c37d97b9b46"
+    }, 
+    "b8ee4f9932d9df9c5931bd02284529a9": {
+        "area": "Calcasieu", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "...The Flood Warning continues for the following rivers in Louisiana...Texas... Sabine River Near Bon Wier Sabine River Near Orange Sabine River Near Deweyville Neches River Near Town Bluff", 
+        "title": "Flood Warning issued September 06 at 10:35AM CDT until September 08 at 1:00PM CDT by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=LA125867B2321C.FloodWarning.125867D11E20LA.LCHFLSLCH.b8ee4f9932d9df9c5931bd02284529a9"
+    }, 
+    "bc40ece57eef34ba8f4c26607ed3dcd6": {
+        "area": "Northwest", 
+        "category": "Hurricane Warning", 
+        "severity": "Severe", 
+        "summary": "...HURRICANE WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Northwest * WIND - LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind - Peak Wind Forecast: 40-50 mph with gusts to 75 mph", 
+        "title": "Hurricane Warning issued September 06 at 12:07PM ADT until further notice by NWS", 
+        "type": "Hurricane Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=PR125867B2272C.HurricaneWarning.125867B362CCPR.JSJTCVSJU.bc40ece57eef34ba8f4c26607ed3dcd6"
+    }, 
+    "bc56992335eccbdff89e8bb23435b522": {
+        "area": "Camas; Gooding; Jerome; Twin Falls", 
+        "category": "Air Quality Alert", 
+        "severity": "Unknown", 
+        "summary": "...ORANGE AIR QUALITY ADVISORY FROM THE IDAHO DEPARTMENT OF ENVIRONMENTAL QUALITY FOR SOUTH CENTRAL IDAHO... The Idaho Department of Environmental Quality has issued an Orange /Unhealthy for Sensitive Groups/ Air Quality Advisory for South Central Idaho due to elevated pollutant levels. This Advisory will remain in effect until air quality conditions have significantly", 
+        "title": "Air Quality Alert issued September 05 at 11:58AM MDT by NWS", 
+        "type": "Air Quality Alert", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=ID125867A346F8.AirQualityAlert.125867B31A88ID.BOIAQABOI.bc56992335eccbdff89e8bb23435b522"
+    }, 
+    "bdecf3b61c2234b04a55d0eb5591eca7": {
+        "area": "Barnstable; Central Middlesex County; Eastern Essex; Eastern Norfolk; Eastern Plymouth; Northern Bristol; Northern Worcester; Northwest Middlesex County; Southeast Middlesex; Southern Bristol; Southern Plymouth; Southern Worcester; Suffolk; Western Essex; Western Norfolk; Western Plymouth", 
+        "category": "Flash Flood Watch", 
+        "severity": "Severe", 
+        "summary": "...FLASH FLOOD WATCH REMAINS IN EFFECT THROUGH LATE TONIGHT... The Flash Flood Watch continues for * Portions of Massachusetts and Rhode Island, including the following areas, in Massachusetts, Barnstable, Bristol, Essex, Middlesex, Norfolk, Plymouth, Suffolk, and Worcester. In Rhode Island, Bristol, Kent, Newport, Providence, and Washington.", 
+        "title": "Flash Flood Watch issued September 06 at 9:46AM EDT until September 07 at 6:00AM EDT by NWS", 
+        "type": "Flash Flood Watch", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=MA125867B1E848.FlashFloodWatch.125867C0A360MA.BOXFFABOX.bdecf3b61c2234b04a55d0eb5591eca7"
+    }, 
+    "bf3643894a7d98c3bcb21cbf03ea2616": {
+        "area": "Central Interior", 
+        "category": "Wind Advisory", 
+        "severity": "Minor", 
+        "summary": "...WIND ADVISORY REMAINS IN EFFECT UNTIL NOON AKDT TODAY... * LOCATION...Over Summits. * WINDS...East gusting to 40 mph. * TIMING...strong gusty winds will decrease about noon today.", 
+        "title": "Wind Advisory issued September 06 at 4:53AM AKDT until September 06 at 12:00PM AKDT by NWS", 
+        "type": "Wind Advisory", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=AK125867B1C3F4.WindAdvisory.125867B2E7C0AK.AFGNPWAFG.bf3643894a7d98c3bcb21cbf03ea2616"
+    }, 
+    "bf7164e3bc1c24a8a3348678407dc125": {
+        "area": "North Central", 
+        "category": "Hurricane Warning", 
+        "severity": "Severe", 
+        "summary": "...HURRICANE WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - North Central * WIND - LATEST LOCAL FORECAST: Equivalent Strong Tropical Storm force wind", 
+        "title": "Hurricane Warning issued September 06 at 12:07PM ADT until further notice by NWS", 
+        "type": "Hurricane Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=PR125867B2272C.HurricaneWarning.125867B362CCPR.JSJTCVSJU.bf7164e3bc1c24a8a3348678407dc125"
+    }, 
+    "c22a17b21fbe8f0687b3feade4e8dc91": {
+        "area": "Central Interior; Culebra; Eastern Interior; Mayaguez and Vicinity; North Central; Northeast; Northwest; Ponce and Vicinity; San Juan and Vicinity; Southeast; Southwest; Vieques; Western Interior", 
+        "category": "Flash Flood Watch", 
+        "severity": "Severe", 
+        "summary": "...FLOODING RAINS ASSOCIATED WITH IRMA EXPECTED TODAY THROUGH AT LEAST FRIDAY... .As Major Hurricane Irma and its outer rain bands continue to affect the islands, the potential for flooding rains will significantly increase throughout the day, particularly across the U.S. Virgin Islands, north and eastern Puerto Rico, Culebra and Vieques.", 
+        "title": "Flash Flood Watch issued September 06 at 8:57AM ADT until September 08 at 3:00PM ADT by NWS", 
+        "type": "Flash Flood Watch", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=PR125867B19E74.FlashFloodWatch.125867D11E20PR.JSJFFASJU.c22a17b21fbe8f0687b3feade4e8dc91"
+    }, 
+    "c2e0fb19dd4af0ed140e5d5e9f70fbdf": {
+        "area": "North Central and Southeast Siskiyou County; Northeast Siskiyou and Northwest Modoc Counties; South Central Siskiyou County", 
+        "category": "Dense Smoke Advisory", 
+        "severity": "Minor", 
+        "summary": "...Dense smoke expected through midday Thursday... .Periods of dense smoke will persist through midday Thursday across the mid-elevations and valleys of Siskiyou County from the Shasta Valley westward. Dense smoke will also persist in the Southern Oregon Cascades near Union Creek and Diamond lake and in eastern Douglas county near Steamboat through late this evening.", 
+        "title": "Dense Smoke Advisory issued September 06 at 12:08AM PDT until September 07 at 12:00PM PDT by NWS", 
+        "type": "Dense Smoke Advisory", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=CA125867B0EF10.DenseSmokeAdvisory.125867C202F0CA.MFRNPWMFR.c2e0fb19dd4af0ed140e5d5e9f70fbdf"
+    }, 
+    "c2fcce8abc41c72f741d9fa6e20643ab": {
+        "area": "Southeast", 
+        "category": "Hurricane Warning", 
+        "severity": "Severe", 
+        "summary": "...HURRICANE WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Southeast * WIND - LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind - Peak Wind Forecast: 40-50 mph with gusts to 70 mph", 
+        "title": "Hurricane Warning issued September 06 at 12:07PM ADT until further notice by NWS", 
+        "type": "Hurricane Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=PR125867B2272C.HurricaneWarning.125867B362CCPR.JSJTCVSJU.c2fcce8abc41c72f741d9fa6e20643ab"
+    }, 
+    "c573963a7f6719c359fd9917def4e1b3": {
+        "area": "Taiya Inlet and Klondike Highway", 
+        "category": "Special Weather Statement", 
+        "severity": "Minor", 
+        "summary": "The Taiya River near Skagway is just below bankfull as of early Wednesday morning. It will likely rise to bankfull levels later today. It may stay there for several days with possible minor flooding later this week. A weather front will move into the Skagway area Wednesday and provide additional rainfall between 0.5 and 0.7 inches in the area, with the outlook remaining wet", 
+        "title": "Special Weather Statement issued September 06 at 4:37AM AKDT by NWS", 
+        "type": "Special Weather Statement", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=AK125867B1BDB4.SpecialWeatherStatement.125867BF1CC0AK.AJKSPSAJK.c573963a7f6719c359fd9917def4e1b3"
+    }, 
+    "c5a63730f3b460f5528ddcc7ad1e0842": {
+        "area": "Western Klamath National Forest", 
+        "category": "Red Flag Warning", 
+        "severity": "Severe", 
+        "summary": "...Abundant lightning expected today into Thursday evening for Northern California and southern Oregon... ...RED FLAG WARNING REMAINS IN EFFECT UNTIL 11 PM PDT THURSDAY FOR ABUNDANT LIGHTNING ON DRY FUELS FOR FIRE WEATHER ZONE 280 IN CALIFORNIA AND FIRE WEATHER ZONES 618 AND 619 IN OREGON... * Thunderstorms: This afternoon and evening the possibility of", 
+        "title": "Red Flag Warning issued September 06 at 7:11AM PDT until September 07 at 11:00PM PDT by NWS", 
+        "type": "Red Flag Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=CA125867B201AC.RedFlagWarning.125867CF4960CA.MFRRFWMFR.c5a63730f3b460f5528ddcc7ad1e0842"
+    }, 
+    "c68f35c3d832c1a1a2e1441c38c2ec41": {
+        "area": "Chambers; Liberty", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "A river flood warning remains in effect for the Trinity River. The Flood Warning continues for The Trinity River Near Moss Bluff * until Friday morning...or until the warning is canceled. * At 0830 AM Wednesday the stage was 13.6 feet. * Minor flooding is occurring and Minor flooding is forecast.", 
+        "title": "Flood Warning issued September 06 at 9:37AM CDT until September 08 at 9:00AM CDT by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=TX125867B20BD4.FloodWarning.125867D081E0TX.HGXFLSHGX.c68f35c3d832c1a1a2e1441c38c2ec41"
+    }, 
+    "c74a33ea80719c732d1a8a6d9e4e6915": {
+        "area": "Asotin County; Blue Mountains of Washington", 
+        "category": "Fire Weather Watch", 
+        "severity": "Moderate", 
+        "summary": "...SCATTERED THUNDERSTORMS WITH ABUNDANT LIGHTNING EXPECTED ALONG THE EAST SLOPES OF THE CASCADES LATER TODAY SPREADING NORTHEAST THURSDAY AND THURSDAY NIGHT... .A trough of low pressure will lift northeast and slowly move through the area over the next few days. Scattered thunderstorms will develop as early as this afternoon along the East Slopes of", 
+        "title": "Fire Weather Watch issued September 06 at 8:59AM PDT until September 08 at 11:00PM PDT by NWS", 
+        "type": "Fire Weather Watch", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=WA125867B23B7C.FireWeatherWatch.125867DE8BA0WA.PDTRFWPDT.c74a33ea80719c732d1a8a6d9e4e6915"
+    }, 
+    "cb5a05f9827dbf9dac935ca87c01e8b5": {
+        "area": "Mt. Hood National Forest - West of Cascade Crest; North Oregon Cascade Foothills", 
+        "category": "Fire Weather Watch", 
+        "severity": "Moderate", 
+        "summary": "...FIRE WEATHER WATCH REMAINS IN EFFECT FROM WEDNESDAY AFTERNOON THROUGH THURSDAY EVENING FOR ABUNDANT LIGHTNING AND DRY FUELS FOR FIRE WEATHER ZONES 605...607 AND 660... * Thunderstorms...There will be a chance for thunderstorms Wednesday afternoon through Thursday evening. The best chances are likely overnight Wednesday through Thursday afternoon.", 
+        "title": "Fire Weather Watch issued September 05 at 9:37PM PDT until September 07 at 8:00PM PDT by NWS", 
+        "type": "Fire Weather Watch", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=OR125867B08534.FireWeatherWatch.125867CED430OR.PQRRFWPQR.cb5a05f9827dbf9dac935ca87c01e8b5"
+    }, 
+    "cbf3ab1eea2ee11078374abd4f8cf93d": {
+        "area": "Harris", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "The National Weather Service in League City has issued a * Flood Warning for... Northern Fort Bend County in southeastern Texas... West central Harris County in southeastern Texas... * Until 400 PM CDT Wednesday. * At 353 PM CDT, Harris County Flood Control confirmed flooding was", 
+        "title": "Flood Warning issued September 04 at 3:58PM CDT until further notice by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=TX1258679479E8.FloodWarning.125867BFEDBCTX.HGXFLWHGX.cbf3ab1eea2ee11078374abd4f8cf93d"
+    }, 
+    "cc1a5e6284bfdd59eba3662c69e5c0ee": {
+        "area": "Jefferson; Orange", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "...The Flood Warning continues for the following rivers in Louisiana...Texas... Sabine River Near Bon Wier Sabine River Near Orange Sabine River Near Deweyville Neches River Near Town Bluff", 
+        "title": "Flood Warning issued September 06 at 10:35AM CDT until further notice by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=TX125867B2321C.FloodWarning.125867BFED58TX.LCHFLSLCH.cc1a5e6284bfdd59eba3662c69e5c0ee"
+    }, 
+    "ce0438b9d9fc17d694547583dfc84bbc": {
+        "area": "Eastern Alaska Range", 
+        "category": "High Wind Warning", 
+        "severity": "Severe", 
+        "summary": "...HIGH WIND WARNING NOW IN EFFECT UNTIL 6 PM AKDT THIS EVENING... * LOCATION...Alaska Range Passes. * WINDS...South winds 45 mph with gusts to 70 mph. * TIMING...Strong gusty winds will remain through this afternoon and then decrease this evening. * IMPACTS...Strong winds will make travel difficult. Loose", 
+        "title": "High Wind Warning issued September 06 at 4:53AM AKDT until September 06 at 6:00PM AKDT by NWS", 
+        "type": "High Wind Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=AK125867B1C3F4.HighWindWarning.125867BF6AE0AK.AFGNPWAFG.ce0438b9d9fc17d694547583dfc84bbc"
+    }, 
+    "ceee1d6c41015c350dd11abf1e19c792": {
+        "area": "Saint John; Saint Thomas", 
+        "category": "Extreme Wind Warning", 
+        "severity": "Extreme", 
+        "summary": "The National Weather Service in San Juan has issued a * Extreme Wind Warning for... Saint John in Virgin Islands... Saint Thomas in Virgin Islands... * Until 115 PM AST * At 1114 AM AST, National Weather Service Doppler radar indicated", 
+        "title": "Extreme Wind Warning issued September 06 at 11:16AM AST until September 06 at 1:15PM AST by NWS", 
+        "type": "Extreme Wind Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=VI125867B22AB0.ExtremeWindWarning.125867B2786CVI.JSJEWWSJU.ceee1d6c41015c350dd11abf1e19c792"
+    }, 
+    "d11c47b32d768a7b8992f7a10d173eec": {
+        "area": "Central and Eastern Lake County; Klamath Basin; Northern and Eastern Klamath County and Western Lake County", 
+        "category": "Air Quality Alert", 
+        "severity": "Unknown", 
+        "summary": "...AIR QUALITY ALERT IN EFFECT UNTIL NOON PDT FRIDAY... Oregon Department of Environmental Quality has issued an Air Quality Alert...in effect until further notice. Wildfires burning in the region combined with forecast conditions will cause air quality levels to fluctuate. Air quality could be at unhealthy levels, at times.", 
+        "title": "Air Quality Alert issued September 05 at 11:02AM PDT by NWS", 
+        "type": "Air Quality Alert", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=OR125867A35828.AirQualityAlert.125867B2C0B0OR.MFRAQAMFR.d11c47b32d768a7b8992f7a10d173eec"
+    }, 
+    "d442061a0b37e89a0535e954f51f92dc": {
+        "area": "Carson City, Douglas, Storey, Southern Washoe, Eastern Lyon Counties; Northern Washoe County", 
+        "category": "Red Flag Warning", 
+        "severity": "Severe", 
+        "summary": "...RED FLAG WARNING IN EFFECT FROM 2 PM THIS AFTERNOON TO 8 PM PDT THURSDAY FOR ABUNDANT LIGHTNING FOR NORTHEAST CALIFORNIA AND NORTHWEST NEVADA... * AFFECTED AREA...Fire Zone 270 Surprise Valley California, Fire Zone 271 Western Lassen/Eastern Plumas/Eastern Sierra/Eastern Nevada Counties, Fire Zone 272 Greater Lake Tahoe Area, Fire", 
+        "title": "Red Flag Warning issued September 06 at 8:48AM PDT until September 07 at 8:00PM PDT by NWS", 
+        "type": "Red Flag Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=NV125867B23730.RedFlagWarning.125867CED430NV.REVRFWREV.d442061a0b37e89a0535e954f51f92dc"
+    }, 
+    "d48178a0914113be56a2b77fd3526dce": {
+        "area": "Bristol; Eastern Kent; Newport; Northwest Providence; Southeast Providence; Washington; Western Kent", 
+        "category": "Flash Flood Watch", 
+        "severity": "Severe", 
+        "summary": "...FLASH FLOOD WATCH REMAINS IN EFFECT THROUGH LATE TONIGHT... The Flash Flood Watch continues for * Portions of Massachusetts and Rhode Island, including the following areas, in Massachusetts, Barnstable, Bristol, Essex, Middlesex, Norfolk, Plymouth, Suffolk, and Worcester. In Rhode Island, Bristol, Kent, Newport, Providence, and Washington.", 
+        "title": "Flash Flood Watch issued September 06 at 9:46AM EDT until September 07 at 6:00AM EDT by NWS", 
+        "type": "Flash Flood Watch", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=RI125867B1E848.FlashFloodWatch.125867C0A360RI.BOXFFABOX.d48178a0914113be56a2b77fd3526dce"
+    }, 
+    "ddc1fea682de2e8d6aca2f3055aa8b16": {
+        "area": "Denali", 
+        "category": "High Wind Warning", 
+        "severity": "Severe", 
+        "summary": "...HIGH WIND WARNING NOW IN EFFECT UNTIL 6 PM AKDT THIS EVENING... * LOCATION...Alaska Range Passes. * WINDS...South winds 40 mph with gusts to 70 mph. * TIMING...Strong gusty winds will remain through this afternoon and then decrease this evening. * IMPACTS...Strong winds will make travel difficult. Loose", 
+        "title": "High Wind Warning issued September 06 at 4:53AM AKDT until September 06 at 6:00PM AKDT by NWS", 
+        "type": "High Wind Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=AK125867B1C3F4.HighWindWarning.125867BF6AE0AK.AFGNPWAFG.ddc1fea682de2e8d6aca2f3055aa8b16"
+    }, 
+    "df35ed53e28a3b52c26152ec51d2cb43": {
+        "area": "North Coast; Van Duzen, Mad River; W Mendocino NF, E Mendocino Unit", 
+        "category": "Fire Weather Watch", 
+        "severity": "Moderate", 
+        "summary": "...SCATTERED TO NUMEROUS THUNDERSTORMS WITH ABUNDANT LIGHTNING POSSIBLE THURSDAY MORNING THROUGH THURSDAY EVENING... .Scattered to potentially numerous thunderstorms are expected to develop across a broad area of Northwest California on Thursday. Storms may form as early as Thursday morning and last through Thursday evening, and may feature abundant cloud-to-ground", 
+        "title": "Fire Weather Watch issued September 06 at 8:24AM PDT until September 07 at 11:00PM PDT by NWS", 
+        "type": "Fire Weather Watch", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=CA125867B22DD0.FireWeatherWatch.125867CF4960CA.EKARFWEKA.df35ed53e28a3b52c26152ec51d2cb43"
+    }, 
+    "e4b5017e009e1ba361a53c2a79abaa2c": {
+        "area": "Beauregard; Calcasieu", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "...The Flood Warning continues for the following rivers in Louisiana...Texas... Sabine River Near Bon Wier Sabine River Near Orange Sabine River Near Deweyville Neches River Near Town Bluff", 
+        "title": "Flood Warning issued September 06 at 10:35AM CDT until further notice by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=LA125867B2321C.FloodWarning.125867BFED58LA.LCHFLSLCH.e4b5017e009e1ba361a53c2a79abaa2c"
+    }, 
+    "e76703aa9ee64d8c9697bd65521f3385": {
+        "area": "Orange", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "...The Flood Warning continues for the following rivers in Louisiana...Texas... Sabine River Near Bon Wier Sabine River Near Orange Sabine River Near Deweyville Neches River Near Town Bluff", 
+        "title": "Flood Warning issued September 06 at 10:35AM CDT until September 11 at 5:30AM CDT by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=TX125867B2321C.FloodWarning.125867FDB818TX.LCHFLSLCH.e76703aa9ee64d8c9697bd65521f3385"
+    }, 
+    "e90e209b6f3ec87028b67a6893309694": {
+        "area": "Maricopa", 
+        "category": "Air Quality Alert", 
+        "severity": "Unknown", 
+        "summary": "...HIGH POLLUTION ADVISORY FOR MARICOPA COUNTY INCLUDING THE GREATER PHOENIX AREA TODAY AND WEDNESDAY... The Arizona Department of Environmental Quality in Phoenix has issued an Ozone High Pollution Advisory for the Greater Phoenix Area for today and Wednesday. This means that forecast weather conditions combined with existing", 
+        "title": "Air Quality Alert issued September 05 at 11:03AM MST by NWS", 
+        "type": "Air Quality Alert", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=AZ125867A3588C.AirQualityAlert.125867BFB900AZ.PSRAQAPSR.e90e209b6f3ec87028b67a6893309694"
+    }, 
+    "eac1cb018c0ec68e042960ac20a2092b": {
+        "area": "Fresno; Madera; Mariposa; Tulare; Tuolumne", 
+        "category": "Air Quality Alert", 
+        "severity": "Unknown", 
+        "summary": "The San Joaquin Valley and Mariposa Air Pollution Control District has continued an Air Quality Alert on September 5, 2017, due to smoke impacts from surrounding wildfires for Mariposa, Madera, Fresno, Tulare and Tuolumne Counties. This Air Quality Alert is in effect until Friday, September 8, 2017.", 
+        "title": "Air Quality Alert issued September 06 at 8:02AM PDT by NWS", 
+        "type": "Air Quality Alert", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=CA125867B22538.AirQualityAlert.125867BF97CCCA.HNXAQAHNX.eac1cb018c0ec68e042960ac20a2092b"
+    }, 
+    "eb471110533a6a10372137483130f518": {
+        "area": "Benewah; Bonner; Boundary; Kootenai; Latah; Lewis; Nez Perce; Shoshone", 
+        "category": "Air Quality Alert", 
+        "severity": "Unknown", 
+        "summary": "An Air Quality Alert has been issued by the following agencies: Idaho Department of Environmental Quality in Lewiston Idaho Department of Environmental Quality in Coeur d`Alene Nez Perce Tribe Coeur d`Alene Tribe Kootenai Tribe of Idaho", 
+        "title": "Air Quality Alert issued September 05 at 1:04PM MDT by NWS", 
+        "type": "Air Quality Alert", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=ID125867A38000.AirQualityAlert.125867B2C68CID.OTXAQAOTX.eb471110533a6a10372137483130f518"
+    }, 
+    "eb8152832e98978dc39aceefa4baf1cb": {
+        "area": "Horry", 
+        "category": "Flood Warning", 
+        "severity": "Moderate", 
+        "summary": "...The Flood Warning has been extended for the following rivers... Waccamaw At Conway affecting Horry County SC ...Flood Warning now in effect until Friday morning... The Flood Warning continues for The Waccamaw At Conway. * until Friday morning.", 
+        "title": "Flood Warning issued September 06 at 11:36AM EDT until September 08 at 8:00AM EDT by NWS", 
+        "type": "Flood Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=SC125867B23280.FloodWarning.125867D033C0SC.ILMFLSILM.eb8152832e98978dc39aceefa4baf1cb"
+    }, 
+    "eba54da91be6311a53756d5711130f84": {
+        "area": "Eastern Rogue Valley; Klamath Basin and the Fremont-Winema National Forest; Siskiyou Mountains; South Central Oregon Coast; South Central Oregon Desert including the BLM Land in Eastern Lake and Western Harney Counties; Southern Oregon Cascades; Umpqua Basin; Umpqua National Forest; Western Rogue Basin including the Illinois Valley", 
+        "category": "Red Flag Warning", 
+        "severity": "Severe", 
+        "summary": "...Abundant lightning expected today into Thursday evening for Northern California and southern Oregon... ...RED FLAG WARNING IN EFFECT FROM 11 AM TODAY TO 11 PM PDT THURSDAY FOR ABUNDANT LIGHTNING ON DRY FUELS FOR FIRE WEATHER ZONES 281, 282, 284, AND 285 IN NORTHERN CALIFORNIA AND FIRE WEATHER ZONES 615, 616, 617, 620, 621, 622, 623, 624, AND 625 IN", 
+        "title": "Red Flag Warning issued September 06 at 7:11AM PDT until September 07 at 11:00PM PDT by NWS", 
+        "type": "Red Flag Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=OR125867B201AC.RedFlagWarning.125867CF4960OR.MFRRFWMFR.eba54da91be6311a53756d5711130f84"
+    }, 
+    "ec45c90689cffe629e1e0fce0871b61d": {
+        "area": "Clearwater; Idaho; Lemhi", 
+        "category": "Air Quality Alert", 
+        "severity": "Unknown", 
+        "summary": "n Air Quality Alert has been issued by the following agencies: Idaho Department of Environmental Quality in Lewiston Nez Perce Tribe Idaho Counties within the Air Quality Alert Include: Clearwater Idaho", 
+        "title": "Air Quality Alert issued September 05 at 1:55PM MDT by NWS", 
+        "type": "Air Quality Alert", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=ID125867A393EC.AirQualityAlert.125867D0F710ID.MSOAQAMSO.ec45c90689cffe629e1e0fce0871b61d"
+    }, 
+    "f29b964f75981bed57372172eb6a01dd": {
+        "area": "Eastern Lassen County; Greater Lake Tahoe; Surprise Valley California; Western Lassen, Eastern Plumas, Eastern Sierra, Eastern Nevada Counties", 
+        "category": "Red Flag Warning", 
+        "severity": "Severe", 
+        "summary": "...RED FLAG WARNING IN EFFECT FROM 2 PM THIS AFTERNOON TO 8 PM PDT THURSDAY FOR ABUNDANT LIGHTNING FOR NORTHEAST CALIFORNIA AND NORTHWEST NEVADA... * AFFECTED AREA...Fire Zone 270 Surprise Valley California, Fire Zone 271 Western Lassen/Eastern Plumas/Eastern Sierra/Eastern Nevada Counties, Fire Zone 272 Greater Lake Tahoe Area, Fire", 
+        "title": "Red Flag Warning issued September 06 at 8:48AM PDT until September 07 at 8:00PM PDT by NWS", 
+        "type": "Red Flag Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=CA125867B23730.RedFlagWarning.125867CED430CA.REVRFWREV.f29b964f75981bed57372172eb6a01dd"
+    }, 
+    "f9ca39e8e72276ae001b9c198ad946e6": {
+        "area": "Central Siskiyou County Including Shasta Valley; Modoc County Except for the Surprise Valley; Shasta-Trinity National Forest in Siskiyou County; Siskiyou County from the Cascade Mountains East and South to Mt Shasta", 
+        "category": "Red Flag Warning", 
+        "severity": "Severe", 
+        "summary": "...Abundant lightning expected today into Thursday evening for Northern California and southern Oregon... ...RED FLAG WARNING IN EFFECT FROM 11 AM TODAY TO 11 PM PDT THURSDAY FOR ABUNDANT LIGHTNING ON DRY FUELS FOR FIRE WEATHER ZONES 281, 282, 284, AND 285 IN NORTHERN CALIFORNIA AND FIRE WEATHER ZONES 615, 616, 617, 620, 621, 622, 623, 624, AND 625 IN", 
+        "title": "Red Flag Warning issued September 06 at 7:11AM PDT until September 07 at 11:00PM PDT by NWS", 
+        "type": "Red Flag Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=CA125867B201AC.RedFlagWarning.125867CF4960CA.MFRRFWMFR.f9ca39e8e72276ae001b9c198ad946e6"
+    }, 
+    "fb0095d430720e28c65cc213f5e22fb9": {
+        "area": "Southwest", 
+        "category": "Hurricane Warning", 
+        "severity": "Severe", 
+        "summary": "...HURRICANE WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Southwest * WIND - LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind - Peak Wind Forecast: 30-40 mph with gusts to 55 mph", 
+        "title": "Hurricane Warning issued September 06 at 12:07PM ADT until further notice by NWS", 
+        "type": "Hurricane Warning", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=PR125867B2272C.HurricaneWarning.125867B362CCPR.JSJTCVSJU.fb0095d430720e28c65cc213f5e22fb9"
+    }, 
+    "fbb4af077138672366841632d959bd3e": {
+        "area": "Extreme South Washington Cascades and Foothills", 
+        "category": "Fire Weather Watch", 
+        "severity": "Moderate", 
+        "summary": "...FIRE WEATHER WATCH REMAINS IN EFFECT FROM WEDNESDAY AFTERNOON THROUGH THURSDAY EVENING FOR ABUNDANT LIGHTNING AND DRY FUELS FOR FIRE WEATHER ZONES 605...607 AND 660... * Thunderstorms...There will be a chance for thunderstorms Wednesday afternoon through Thursday evening. The best chances are likely overnight Wednesday through Thursday afternoon.", 
+        "title": "Fire Weather Watch issued September 05 at 9:37PM PDT until September 07 at 8:00PM PDT by NWS", 
+        "type": "Fire Weather Watch", 
+        "url": "https://alerts.weather.gov/cap/wwacapget.php?x=WA125867B08534.FireWeatherWatch.125867CED430WA.PQRRFWPQR.fbb4af077138672366841632d959bd3e"
+    }
+}
