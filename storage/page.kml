@@ -1,0 +1,96 @@
+<?xml version = '1.0' encoding = 'UTF-8' standalone = 'yes'?>
+<?xml-stylesheet href='https://alerts.weather.gov/cap/capatomproduct.xsl' type='text/xsl'?>
+
+<!--
+This atom/xml feed is an index to active advisories, watches and warnings 
+issued by the National Weather Service.  This index file is not the complete 
+Common Alerting Protocol (CAP) alert message.  To obtain the complete CAP 
+alert, please follow the links for each entry in this index.  Also note the 
+CAP message uses a style sheet to convey the information in a human readable 
+format.  Please view the source of the CAP message to see the complete data 
+set.  Not all information in the CAP message is contained in this index of 
+active alerts.
+-->
+
+<alert xmlns = 'urn:oasis:names:tc:emergency:cap:1.1'>
+
+<!-- http-date = Thu, 07 Sep 2017 02:12:00 GMT -->
+<identifier>NOAA-NWS-ALERTS-OR125867C14450.RedFlagWarning.125867CF9780OR.BOIRFWBOI.17553cb4479b31e7eba3a43af9f10002</identifier>
+<sender>w-nws.webmaster@noaa.gov</sender>
+<sent>2017-09-07T07:12:00-07:00</sent>
+<status>Actual</status>
+<msgType>Alert</msgType>
+<scope>Public</scope>
+<note>Alert for Baker Valley (Oregon) Issued by the National Weather Service</note>
+<info>
+<category>Met</category>
+<event>Red Flag Warning</event>
+<urgency>Expected</urgency>
+<severity>Severe</severity>
+<certainty>Likely</certainty>
+<eventCode>
+<valueName>SAME</valueName>
+<value>FRW</value>
+</eventCode>
+<effective>2017-09-07T17:00:00-07:00</effective>
+<expires>2017-09-08T01:00:00-07:00</expires>
+<senderName>NWS Boise (Southwestern Idaho and Eastern Oregon)</senderName>
+<headline>Red Flag Warning issued September 07 at 7:12AM PDT until September 08 at 1:00AM PDT by NWS Boise</headline>
+<description>...SCATTERED THUNDERSTORMS TODAY...
+...POTENTIAL FOR SCATTERED THUNDERSTORMS AGAIN ON FRIDAY...
+.Southerly flow aloft will pull mid-level moisture northward into
+Oregon and far southwest Idaho today. This moisture will help
+generate scattered showers and thunderstorms across fire weather
+zones 636, 637, 646, and 423 beginning this afternoon. Lingering
+moisture will allow thunderstorms to redevelop on Friday. A Fire
+Weather Watch is now in effect for areas most likely to see
+scattered thunderstorm development Friday afternoon.
+...RED FLAG WARNING FOR LIGHTNING NOW IN EFFECT FROM 5 PM PDT THIS
+AFTERNOON TO 1 AM PDT FRIDAY FOR LIGHTNING ACROSS THE BAKER
+VALLEY, WHICH IS FIRE WEATHER ZONE 646...
+...FIRE WEATHER WATCH FOR LIGHTNING IN EFFECT FROM FRIDAY MORNING
+THROUGH FRIDAY EVENING ACROSS THE BAKER VALLEY, WHICH IS FIRE
+WEATHER ZONE 646...
+The National Weather Service in Boise has issued a Fire Weather
+Watch, which is in effect from Friday morning through Friday
+evening.
+* THUNDERSTORMS...Isolated in coverage mid-day, becoming scattered
+in coverage by late this afternoon. Potentially scattered in
+coverage Friday afternoon and evening.
+* OUTFLOW WINDS...Up to 55 mph.</description>
+<instruction>A Red Flag Warning means that critical fire weather conditions
+are either occurring now, or will shortly.
+A Fire Weather Watch means that critical fire weather conditions
+are forecast to occur. Listen for later forecasts and possible
+Red Flag Warnings.</instruction>
+<parameter>
+<valueName>WMOHEADER</valueName>
+<value></value>
+</parameter>
+<parameter>
+<valueName>UGC</valueName>
+<value>ORZ646</value>
+</parameter>
+<parameter>
+<valueName>VTEC</valueName>
+<value>/O.NEW.KBOI.FW.A.0007.170908T1800Z-170909T0600Z/
+/O.EXT.KBOI.FW.W.0014.170908T0000Z-170908T0800Z/</value>
+</parameter>
+<parameter>
+<valueName>TIME...MOT...LOC</valueName>
+<value></value>
+</parameter>
+<area>
+<areaDesc>Baker Valley</areaDesc>
+<polygon></polygon>
+<geocode>
+<valueName>FIPS6</valueName>
+<value>041001</value>
+</geocode>
+<geocode>
+<valueName>UGC</valueName>
+<value>ORZ646</value>
+</geocode>
+</area>
+</info>
+</alert>
