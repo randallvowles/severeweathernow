@@ -50,7 +50,9 @@ all_states = ['al', 'ak', 'az', 'ar', 'ca', 'co', 'ct', 'de',
               'sd', 'tn', 'tx', 'ut', 'vt', 'va', 'wa', 'wv',
               'wi', 'wy']
 ready_tweets = []
-tweeting_stids = {"ozone": [], "pm25": [], "thunder": [], "visibility": [], "rain": [], "snow": []}
+with open('NWS_states.json') as data_file:
+    NWS_states = json.load(data_file)
+#tweeting_stids = {"ozone": [], "pm25": [], "thunder": [], "visibility": [], "rain": [], "snow": []}
 start_time = datetime.date.today().strftime('%Y%m%d%H%M')
 today_date = datetime.date.today().strftime('%Y%m%d')
 end_time = (datetime.datetime.utcnow()).strftime('%Y%m%d%H%M')
@@ -273,7 +275,7 @@ def alertParser():
 def findNWS(url):
     response = urllib.urlopen(url).read()
     this = xmltodict.parse(response)
-#    print this['alert']['info']['senderName']
+#    print this
     return this['alert']['info']['senderName']
 
 
@@ -289,9 +291,9 @@ def findAlerts():
 #            print alerts[alertKeys[i]]['category']
             alertURL = alerts[alertKeys[i]]['url']
             NWS = str(findNWS(alertURL))
-#            nwsHashtag =
-            nwsHashtag = "NWS"
-            hashtags = " #" + nwsHashtag + " #severeweather "
+            nwsHashtag = ((((re.sub(r'\([^)]*\)', '', NWS)).replace(" ", "")).replace("/", "")).replace(".", "")).replace("-", "")
+#            nwsHashtag = "NWS"
+            hashtags = " #" + nwsHashtag + " #" + (NWS_states[nwsHashtag[3:]]['ST']).lower() + "wx "
 
             tweet = alerts[alertKeys[i]]['category'] + "! issued for " + NWS + hashtags + alertURL
             tweet_code = alertKeys[i]
@@ -323,10 +325,10 @@ def alertEmitter(dict_, filename, timestamp):
         json.dump(dict_, file_out, sort_keys=True, indent=4)
 
 
-findOzone()
-findPM25()
-findWeatherCondition()
-findWindChill()
+#findOzone()
+#findPM25()
+#findWeatherCondition()
+#findWindChill()
 findAlerts()
 
 
@@ -336,6 +338,7 @@ findAlerts()
 # add graphs to show extreme values?
 # hashtag of the condition, space removed
 # state hashtag for alerts issued (pull out of NWS senderName)
+# dict of NWS offices to get state and office code for hashtags
 
 
 def sendToTwitter():
@@ -350,5 +353,16 @@ def sendToTwitter():
         api.update_status(ready_tweets[i])
         time.sleep(10)
 
+
+def trimDC():
+    if len(duplicates) > 2000:
+        duplicity_check = open("duplicity_check.txt", "w")
+        new_array = duplicates[-1000:]
+        for i in range(len(new_array)):
+            duplicity_check.write(new_array[i] + ",")
+        duplicity_check.close()
+
+
 #sendToTwitter()
 duplicity_check.close()
+trimDC()
